@@ -42,6 +42,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [MongoDB](#mongodb)
 - [Clojure](#clojure)
 - [Linux](#linux)
+- [Objective-C](#objective-c)
 
 ## Ruby/Rails
 
@@ -349,6 +350,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html
 - http://ita2zguide.blogspot.com.by/p/cc.html
 - https://github.com/dpetrovics/coding-exercises
+
+## Objective-C
+- http://www.raywenderlich.com/53962/ios-interview-questions
+- https://www.quora.com/What-are-some-good-questions-to-test-someones-Objective-C-and-iOS-Development-skills
+- http://way2ios.com/development/ios-development-2/ios-interview-questions-with-answers/
+- http://andras.palfi.hu/iosobjc-interview-questions/
+- http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/
 
 ## License
 
