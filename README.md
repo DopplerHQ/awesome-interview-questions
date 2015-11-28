@@ -59,6 +59,22 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://career.guru99.com/top-25-python-interview-questions/
 - http://www.careercup.com/page?pid=python-interview-questions
 
+## PHP
+
+- https://github.com/developerquestions/php-questions
+- https://github.com/rajesh-tne/PHP-Interview
+- https://github.com/sw611983/all-php-interview-questions
+- https://github.com/Iriarte81/phpinterviewquestions/blob/master/php%20interview%20questions.docx
+- http://www.careerride.com/PHP-Interview-Questions.aspx
+- http://www.toptal.com/php/interview-questions
+- http://www.woodstitch.com/resources/php-interview-questions.php
+- http://stackoverflow.com/questions/2118755/questions-every-good-php-developer-should-be-able-to-answer
+- http://phpinterviewquestions.co.in/
+- http://placement.freshersworld.com/power-preparation/technical-interview-preparation/php-interview-questions-24321
+- http://letsknowit.com/php-questions
+- http://career.guru99.com/top-100-php-interview-questions-answers/http://www.geekinterview.com/Interview-Questions/Programming/PHP
+- http://www.geekinterview.com/Interview-Questions/Programming/PHP
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
