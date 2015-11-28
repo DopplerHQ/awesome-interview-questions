@@ -42,6 +42,23 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/
 - http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
 
+## Python
+
+- https://github.com/roseperrone/interview-questions
+- https://github.com/sigmavirus24/python-interview-questions
+- https://github.com/adityapn/ProgrammingInterview
+- https://github.com/willpharaoh/interviewstreet
+- http://www.toptal.com/python/interview-questions
+- http://www.careerride.com/python-interview-questions.aspx
+- https://www.quora.com/What-are-good-Python-interview-questions
+- https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions
+- http://www.bogotobogo.com/python/python_interview_questions.php
+- http://www.ilian.io/python-interview-question-and-answers/
+- http://www.geekinterview.com/Interview-Questions/Programming/Python
+- https://www.interviewcake.com/python-interview-questions
+- http://career.guru99.com/top-25-python-interview-questions/
+- http://www.careercup.com/page?pid=python-interview-questions
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
