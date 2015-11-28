@@ -10,36 +10,36 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Table of Contents
 
-- [Ruby/Rails](#rubyrails)
 - [Javascript](#javascript)
+- [CoffeeScript](#coffeescript)
+- [Ruby/Rails](#rubyrails)
+- [HTML](#html)
+- [CSS](#css)
+- [SASS](#sass)
+- [LESS](#less)
 - [Python](#pyton)
 - [PHP](#php)
 - [Java](#java)
 - [Scala](#scala)
-- [Swift](#swift)
-- [AngularJS](#angularjs)
-- [ReactJS](#reactjs)
 - [iOS](#ios)
 - [Android](#android)
-- [NodeJS](#nodejs)
+- [Swift](#swift)
+- [AngularJS](#angularjs)
 - [Ionic](#ionic)
+- [ReactJS](#reactjs)
+- [EmberJS](#emberjs)
+- [BackboneJS](#backbonejs)
+- [KnockoutJS](#knockoutjs)
+- [NodeJS](#nodejs)
 - [Golang](#golang)
 - [C#](#c#)
 - [C++](#c++)
 - [C](#c)
-- [EmberJS](#emberjs)
-- [BackboneJS](#backbonejs)
-- [KnockoutJS](#knockoutjs)
+- [Lisp](#lisp)
 - [SQL](#sql)
 - [Postgres](#postgres)
 - [MySQL](#mysql)
 - [MongoDB](#mongodb)
-- [CSS](#css)
-- [HTML](#html)
-- [SASS](#sass)
-- [LESS](#less)
-- [CoffeeScript](#coffeescript)
-- [Lisp](#lisp)
 
 ## Ruby/Rails
 
@@ -69,6 +69,37 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers
 - http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/
 - http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
+
+## CSS
+- https://github.com/developerquestions/css-questions
+- https://github.com/bargitta/cssInterview
+- https://css-tricks.com/interview-questions-css/
+- http://www.skilledup.com/articles/25-css-interview-questions-answers
+- http://www.careerride.com/Interview-Questions-CSS.aspx
+- http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/
+- http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html
+- http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/
+- http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe
+
+##HTML
+- http://www.toptal.com/html5/interview-questions
+- http://www.skilledup.com/articles/html-html5-interview-questions-answers
+- http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe
+- http://www.sitepoint.com/10-typical-html-interview-exercises/
+- http://career.guru99.com/top-50-html-interview-questions/
+- http://www.geekinterview.com/Interview-Questions/Web/Html
+- http://techpreparation.com/html-interview-questions-answers1.htm#.VlmapN8rLXE
+- http://www.careerride.com/Interview-Questions-HTML.aspx
+
+##SASS
+- http://career.guru99.com/top-17-sass-interview-questions/
+
+##LESS
+- http://career.guru99.com/top-25-less-interview-questions/
+
+##CoffeeScript
+- http://career.guru99.com/top-25-coffeescript-interview-questions/
+- http://www.toptal.com/coffeescript/interview-questions
 
 ## Python
 
@@ -293,37 +324,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.javatpoint.com/mongodb-interview-questions
 - http://career.guru99.com/top-20-mongodb-interview-questions/
 - http://www.globalguideline.com/interview_questions/Questions.php?sc=MongoDB
-
-## CSS
-- https://github.com/developerquestions/css-questions
-- https://github.com/bargitta/cssInterview
-- https://css-tricks.com/interview-questions-css/
-- http://www.skilledup.com/articles/25-css-interview-questions-answers
-- http://www.careerride.com/Interview-Questions-CSS.aspx
-- http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/
-- http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html
-- http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/
-- http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe
-
-##HTML
-- http://www.toptal.com/html5/interview-questions
-- http://www.skilledup.com/articles/html-html5-interview-questions-answers
-- http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe
-- http://www.sitepoint.com/10-typical-html-interview-exercises/
-- http://career.guru99.com/top-50-html-interview-questions/
-- http://www.geekinterview.com/Interview-Questions/Web/Html
-- http://techpreparation.com/html-interview-questions-answers1.htm#.VlmapN8rLXE
-- http://www.careerride.com/Interview-Questions-HTML.aspx
-
-##SASS
-- http://career.guru99.com/top-17-sass-interview-questions/
-
-##LESS
-- http://career.guru99.com/top-25-less-interview-questions/
-
-##CoffeeScript
-- http://career.guru99.com/top-25-coffeescript-interview-questions/
-- http://www.toptal.com/coffeescript/interview-questions
 
 ##Lisp
 - http://career.guru99.com/top-18-lisp-interview-questions/
