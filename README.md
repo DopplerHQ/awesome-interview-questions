@@ -178,7 +178,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://career.guru99.com/top-25-interview-questions-on-scala/
 - http://www.scala-lang.org/old/faq
 - https://www.quora.com/What-are-some-good-interviewing-tips-for-a-Scala-position
-- http://www.toptal.com/scala/interview-questions
 - https://github.com/Jarlakxen/Scala-Interview-Questions
 - https://github.com/peterarsentev/Scala-Interview-Questions-Answers
 - http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed
