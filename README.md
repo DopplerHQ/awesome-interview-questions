@@ -10,7 +10,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Table of Contents
 
-- [Ruby](#ruby)
+- [Ruby/Rails](#rubyrails)
+- [Javascript](#javascript)
 
 ## Ruby/Rails
 
@@ -22,6 +23,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://legeek.org/10-best-ruby-and-rails-interview-questions-and-answers/](http://legeek.org/10-best-ruby-and-rails-interview-questions-and-answers/)
 - [http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers](http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers)
 - [https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/](https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/)
+
+## Javascript
+
+- [https://github.com/malachaifrazier/JavaScript-Interview-Questions](https://github.com/malachaifrazier/JavaScript-Interview-Questions)
+- [https://github.com/nishant8BITS/101-JavaScript-Interview-Question](https://github.com/nishant8BITS/101-JavaScript-Interview-Question)
+- [https://github.com/kolodny/exercises](https://github.com/kolodny/exercises)
+- [https://github.com/tenkai/javascriptstudies](https://github.com/tenkai/javascriptstudies)
+- [https://github.com/csvenja/javascript-exercises](https://github.com/csvenja/javascript-exercises)
+- [https://github.com/ptdecker/interview-cake-answers-javascript](https://github.com/ptdecker/interview-cake-answers-javascript)
 
 ## License
 
