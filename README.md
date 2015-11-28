@@ -17,7 +17,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [CSS](#css)
 - [SASS](#sass)
 - [LESS](#less)
-- [Python](#pyton)
+- [Python](#python)
+- [Django](#django)
 - [PHP](#php)
 - [Java](#java)
 - [Scala](#scala)
@@ -40,6 +41,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Postgres](#postgres)
 - [MySQL](#mysql)
 - [MongoDB](#mongodb)
+- [Clojure](#clojure)
+- [Linux](#linux)
 
 ## Ruby/Rails
 
@@ -81,7 +84,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/
 - http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe
 
-##HTML
+## HTML
+
 - http://www.toptal.com/html5/interview-questions
 - http://www.skilledup.com/articles/html-html5-interview-questions-answers
 - http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe
@@ -91,13 +95,16 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://techpreparation.com/html-interview-questions-answers1.htm#.VlmapN8rLXE
 - http://www.careerride.com/Interview-Questions-HTML.aspx
 
-##SASS
+## SASS
+
 - http://career.guru99.com/top-17-sass-interview-questions/
 
-##LESS
+## LESS
+
 - http://career.guru99.com/top-25-less-interview-questions/
 
-##CoffeeScript
+## CoffeeScript
+
 - http://career.guru99.com/top-25-coffeescript-interview-questions/
 - http://www.toptal.com/coffeescript/interview-questions
 
@@ -117,6 +124,24 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - https://www.interviewcake.com/python-interview-questions
 - http://career.guru99.com/top-25-python-interview-questions/
 - http://www.careercup.com/page?pid=python-interview-questions
+
+## Django
+- http://www.ilian.io/django-interview-questions/
+- http://career.guru99.com/top-16-django-interview-questions/
+- https://www.quora.com/What-are-some-useful-tips-for-a-Python-Django-developer-interview
+- http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/
+- http://blog.jayapal.in/2010/11/django-interview-question.html
+- http://www.goodinterviewquestions.net/top-10-django-interview-questions-and-answers/
+
+
+## Linux
+- http://career.guru99.com/top-50-linux-interview-questions/
+- http://www.tecmint.com/basic-linux-interview-questions-and-answers/
+- http://www.tecmint.com/useful-random-linux-interview-questions-and-answers/
+- http://computernetworkingnotes.com/rhce-interview-questions/linux-interview-questions-answers.html
+- http://www.linuxtechi.com/experience-linux-admin-interview-questions/
+- http://www.toptal.com/linux/interview-questions
+- https://www.linux.com/news/featured-blogs/200-libby-clark/842913-10-job-interview-questions-for-linux-sysadmins
 
 ## PHP
 
@@ -325,11 +350,18 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://career.guru99.com/top-20-mongodb-interview-questions/
 - http://www.globalguideline.com/interview_questions/Questions.php?sc=MongoDB
 
-##Lisp
+## Lisp
 - http://career.guru99.com/top-18-lisp-interview-questions/
 - http://www.sanfoundry.com/lisp-mcqs-class/
 - http://www.sanfoundry.com/lisp-mcqs-procedure-definition/
 - http://www.coolinterview.com/type.asp?iType=478
+
+## Clojure
+- https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/
+- http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html
+- http://ita2zguide.blogspot.com.by/p/cc.html
+- https://github.com/dpetrovics/coding-exercises
+
 
 ## License
 
