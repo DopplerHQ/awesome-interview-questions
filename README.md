@@ -33,7 +33,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [KnockoutJS](#knockoutjs)
 - [NodeJS](#nodejs)
 - [Golang](#golang)
-- [C-sharp](#c-sharp)
 - [C++](#c-1)
 - [C](#c)
 - [Lisp](#lisp)
@@ -265,16 +264,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://career.guru99.com/top-20-go-programming-interview-questions/
 - https://www.reddit.com/r/golang/comments/zms5k/interview_questions_in_go_3sum_problem/
 
-## C#
-- http://www.toptal.com/c-sharp/interview-questions
-- http://www.itechaleart.com/2015/01/top-csharp-interview-questions.html
-- http://www.dotnetfunda.com/interviews/cat/6/csharp
-- http://career.guru99.com/top-50-c-sharp-interview-questions-answers/
-- http://www.indiabix.com/c-sharp-programming/questions-and-answers/
-- https://github.com/ranjan545486/Interview-Programs-in-C-Sharp
-- http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers
-- https://blog.udemy.com/c-sharp-interview-questions/
-
 ## C++
 - http://www.tutorialspoint.com/cplusplus/cpp_interview_questions.htm
 - http://www.toptal.com/c-plus-plus/interview-questions
@@ -361,7 +350,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html
 - http://ita2zguide.blogspot.com.by/p/cc.html
 - https://github.com/dpetrovics/coding-exercises
-
 
 ## License
 
