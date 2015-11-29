@@ -10,7 +10,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Table of Contents
 
-- [Javascript](#javascript)
+- [JavaScript](#javascript)
 - [CoffeeScript](#coffeescript)
 - [Ruby/Rails](#rubyrails)
 - [HTML](#html)
@@ -55,7 +55,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers
 - https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/
 
-## Javascript
+## JavaScript
 
 - https://github.com/malachaifrazier/JavaScript-Interview-Questions
 - https://github.com/nishant8BITS/101-JavaScript-Interview-Question
