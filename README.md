@@ -330,6 +330,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.testingbrain.com/interview/mysql-interview-questions.html
 - http://www.javatpoint.com/mysql-interview-questions
 - http://www.geekinterview.com/Interview-Questions/Database/MYSQL
+- https://github.com/XD-DENG/SQL-exercise
 
 ## MongoDB
 - http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm
