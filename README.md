@@ -198,7 +198,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html
 - https://grokswift.com/interview-questions/
 - http://datacalculation.blogspot.com.by/2014/09/best-ios-interview-questions-on-swift.html
-- https://www.glassdoor.com/Interview/Society-for-Worldwide-Interbank-Financial-Telecommunication-SCRL-Interview-Questions-E8597.htm
 
 ## AngularJS
 
