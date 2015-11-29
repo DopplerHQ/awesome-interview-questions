@@ -191,7 +191,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - https://github.com/rudneycardoso/SWIFT
 - http://www.raywenderlich.com/110982/swift-interview-questions-answers
 - http://www.toptal.com/swift/interview-questions
-- http://career.guru99.com/top-15-swift-interview-questions/
 - https://www.quora.com/What-are-some-questions-an-employer-might-ask-about-Swift-during-an-iOS-developer-job-interview-What-kind-of-answers-would-he-or-she-expect
 - http://www.skilledup.com/articles/5-swift-questions-ios-job-interview
 - http://mycodetips.com/swift-ios/swift-programming-language-interview-questions-answers-987.html
