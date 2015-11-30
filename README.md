@@ -287,7 +287,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://phpinterviewquestions.co.in/
 - http://placement.freshersworld.com/power-preparation/technical-interview-preparation/php-interview-questions-24321
 - http://letsknowit.com/php-questions
-- http://career.guru99.com/top-100-php-interview-questions-answers/http://www.geekinterview.com/Interview-Questions/Programming/PHP
+- http://career.guru99.com/top-100-php-interview-questions-answers/
+- http://www.geekinterview.com/Interview-Questions/Programming/PHP
 - http://www.geekinterview.com/Interview-Questions/Programming/PHP
 
 ## Postgres
