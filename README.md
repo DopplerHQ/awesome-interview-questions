@@ -16,7 +16,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [HTML](#html)
 - [CSS](#css)
 - [SASS](#sass)
-- [LESS](#less)
+- [Less](#less)
 - [Python](#python)
 - [Django](#django)
 - [PHP](#php)
@@ -99,7 +99,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - http://career.guru99.com/top-17-sass-interview-questions/
 
-## LESS
+## Less
 
 - http://career.guru99.com/top-25-less-interview-questions/
 
