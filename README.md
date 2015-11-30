@@ -279,6 +279,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.cquestions.com/2010/10/c-interview-questions-and-answers.html
 - http://www.geekinterview.com/Interview-Questions/Languages/C
 - http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/
+- http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/
 
 ## EmberJS
 - http://career.guru99.com/top-25-ember-js-interview-questions/
