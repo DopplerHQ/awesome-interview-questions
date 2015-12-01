@@ -174,7 +174,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions
 - https://github.com/eskerber/iOS-Interview-Questions
 - https://github.com/AtharvaVaidya/iOS-Interview-Prep
-- https://github.com/bianet13/sample-interview-challenge-ios
+- https://github.com/biamacedo/sample-interview-challenge-ios
 - http://www.toptal.com/ios/interview-questions
 - http://www.raywenderlich.com/53962/ios-interview-questions
 - http://www.geekinterview.com/Interview-Questions/iOS
