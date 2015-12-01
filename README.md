@@ -339,6 +339,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Ruby/Rails
 
+- https://github.com/sagivo/algorithms
 - https://github.com/gregstallings/ruby-trivia
 - https://github.com/rishiip/ruby-on-rails-interview-questions
 - http://www.toptal.com/ruby/interview-questions
