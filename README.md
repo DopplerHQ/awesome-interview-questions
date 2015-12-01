@@ -333,6 +333,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - https://github.com/gregstallings/ruby-trivia
 - https://github.com/rishiip/ruby-on-rails-interview-questions
 - http://www.toptal.com/ruby/interview-questions
+- http://www.toptal.com/ruby-on-rails/interview-questions
 - https://gist.github.com/ryansobol/5252653
 - http://www.geekinterview.com/Interview-Questions/J2EE/Ruby
 - http://legeek.org/10-best-ruby-and-rails-interview-questions-and-answers/
