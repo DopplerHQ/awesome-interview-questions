@@ -204,6 +204,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers
 - http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/
 - http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
+- https://github.com/starandtina/frontend-interview-questions
 
 ## KnockoutJS
 
