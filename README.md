@@ -21,6 +21,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Design Pattern](#design-pattern)
 - [Django](#django)
 - [EmberJS](#emberjs)
+- [Erlang](#erlang)
 - [Golang](#golang)
 - [HTML](#html)
 - [Ionic](#ionic)
@@ -140,6 +141,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - https://disqus.com/home/discussion/guru99career/top_25_emberjs_interview_questions/
 - http://www.tutorialspoint.com/emberjs/emberjs_applications.htm
 - http://www.funnyant.com/ember-js-interview-with-tom-dale/
+
+## Erlang
+
+- http://career.guru99.com/top-22-erlang-interview-questions/
 
 ## Golang
 
