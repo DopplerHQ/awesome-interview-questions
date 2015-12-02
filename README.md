@@ -346,11 +346,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - https://github.com/gregstallings/ruby-trivia
 - https://github.com/rishiip/ruby-on-rails-interview-questions
 - http://www.toptal.com/ruby/interview-questions
+- http://www.toptal.com/ruby-on-rails/interview-questions
 - https://gist.github.com/ryansobol/5252653
 - http://www.geekinterview.com/Interview-Questions/J2EE/Ruby
 - http://legeek.org/10-best-ruby-and-rails-interview-questions-and-answers/
 - http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers
 - https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/
+- http://career.guru99.com/top-34-ruby-on-rail-interview-questions/
 
 ## SASS
 
