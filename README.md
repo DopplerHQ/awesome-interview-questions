@@ -181,6 +181,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.geekinterview.com/Interview-Questions/iOS
 - https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html
 - http://www.slideshare.net/CClarkDavidson/ios-developer-interview-questions
+- https://www.codementor.io/ios/tutorial/ios-interview-tips-questions-answers-objective-c
 
 ## Java
 
@@ -285,6 +286,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://way2ios.com/development/ios-development-2/ios-interview-questions-with-answers/
 - http://andras.palfi.hu/iosobjc-interview-questions/
 - http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/
+- https://www.codementor.io/ios/tutorial/ios-interview-tips-questions-answers-objective-c
 
 ## PHP
 
