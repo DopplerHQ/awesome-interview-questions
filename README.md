@@ -87,6 +87,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus
 - http://www.indiabix.com/cpp-programming/questions-and-answers/
 - http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers
+- http://www.geeksforgeeks.org/c-plus-plus/
+- http://www.sanfoundry.com/cplusplus-interview-questions-answers/
 
 ## C
 
