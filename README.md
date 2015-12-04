@@ -16,6 +16,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [BackboneJS](#backbonejs)
 - [C++](#c)
 - [C](#c-1)
+- [C♯](#c-2)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [CSS](#css)
@@ -101,6 +102,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.geekinterview.com/Interview-Questions/Languages/C
 - http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/
 - http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/
+
+## C♯
+
+- http://www.toptal.com/c-sharp/interview-questions
+- http://career.guru99.com/top-50-c-sharp-interview-questions-answers/
+- http://www.dotnetfunda.com/interviews/cat/6/csharp
+- http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers
 
 ## Clojure
 
