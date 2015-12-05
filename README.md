@@ -62,14 +62,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## AngularJS
 
-- https://github.com/gdi2290/ngExam
-- http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers
-- http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm
-- http://www.toptal.com/angular-js/interview-questions
-- http://career.guru99.com/top-25-angular-js-interview-questions/
-- http://www.withoutbook.com/Technology.php?tech=63&subject=Angular%20JS%20Interview%20Questions%20and%20Answers
-- http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan
-- http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html
+- [https://github.com/gdi2290/ngExam](https://github.com/gdi2290/ngExam) - An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass.
+- [http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers) - This article discusses the top 50 Most occurred AngularJS interview question with answers.
+- [http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm) - AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS.
+- [http://www.toptal.com/angular-js/interview-questions](http://www.toptal.com/angular-js/interview-questions) - 10 Essential AngularJS Interview Questions from top 3% developers company. 
+- [http://career.guru99.com/top-25-angular-js-interview-questions/](http://career.guru99.com/top-25-angular-js-interview-questions/) - Top 25 Angular.js Interview Questions and Quiz.
+- [http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan](http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan) - AngularJS Interview Questions and Answers by Shailendra Chauhan
+- [http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html](http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html) - AngularJS interview questions and answers for experienced developers.
 
 ## BackboneJS
 
