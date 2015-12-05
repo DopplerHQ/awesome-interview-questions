@@ -361,6 +361,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://legeek.org/10-best-ruby-and-rails-interview-questions-and-answers/
 - http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers
 - https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/
+- http://www.globalguideline.com/interview_questions/Questions.php?sc=Ruby_on_Rails/
 
 ## SASS
 
