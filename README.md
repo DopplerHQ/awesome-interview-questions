@@ -51,13 +51,14 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Android
 
-- https://github.com/derekargueta/Android-Interview-Questions
-- http://www.toptal.com/android/interview-questions
-- http://www.careerride.com/android-interview-questions.aspx
-- https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer
-- http://javatechig.com/android/android-interview-questions
-- http://www.tutorialspoint.com/android/android_interview_questions.htm
-- http://career.guru99.com/50-android-interview-questions-answers/
+* [https://github.com/derekargueta/Android-Interview-Questions](https://github.com/derekargueta/Android-Interview-Questions) - Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc.
+* [http://www.toptal.com/android/interview-questions](http://www.toptal.com/android/interview-questions) - 14 Essential Android Interview Questions from top 3% developers company.
+* [http://www.careerride.com/android-interview-questions.aspx](http://www.careerride.com/android-interview-questions.aspx) - Android interview questions and answers for freshers and experienced candidates. Also there you can find Android online practice tests to fight written tests and certification exams on Android. 
+* [https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer](https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer) - A couple of Android questions posted by Quora users.
+* [http://javatechig.com/android/android-interview-questions](http://www.careerride.com/android-interview-questions.aspx) - 10 Android interview question answers for Freshers.
+* [http://www.tutorialspoint.com/android/android_interview_questions.htm](http://www.tutorialspoint.com/android/android_interview_questions.htm) - A great list of Android interview questions covering all the aspects of this career.
+* [http://career.guru99.com/50-android-interview-questions-answers/](http://career.guru99.com/50-android-interview-questions-answers/) - 
+- 50 android interview questions & answers.
 
 ## AngularJS
 
