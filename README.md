@@ -78,16 +78,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## C++
 
-- http://www.tutorialspoint.com/cplusplus/cpp_interview_questions.htm
-- http://www.toptal.com/c-plus-plus/interview-questions
-- http://www.careerride.com/C++-Interview-questions-Answer.aspx
-- http://www.programmerinterview.com/index.php/c-cplusplus/introduction/
-- http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus
-- http://www.indiabix.com/cpp-programming/questions-and-answers/
-- http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers
-- http://www.geeksforgeeks.org/c-plus-plus/
-- http://www.sanfoundry.com/cplusplus-interview-questions-answers/
-- https://github.com/haoel/leetcode
+- [http://www.tutorialspoint.com/cplusplus/cpp_interview_questions.htm](http://www.tutorialspoint.com/cplusplus/cpp_interview_questions.htm) - C++ Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of C++.
+- [http://www.toptal.com/c-plus-plus/interview-questions](http://www.toptal.com/c-plus-plus/interview-questions) - 6 Essential C++ Interview Questions from top 3% developers company.
+- [http://www.careerride.com/C++-Interview-questions-Answer.aspx](http://www.careerride.com/C++-Interview-questions-Answer.aspx) - 200 C++ interview questions and answers.
+- [http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus](http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus) - C++ Interview Questions from GeekInterview.
+- [http://www.indiabix.com/cpp-programming/questions-and-answers/](http://www.indiabix.com/cpp-programming/questions-and-answers/) - C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc. 
+- [http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers](http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers) - C++ Interview Questions and Answers for Freshers and Experienced developers.
+- [http://www.geeksforgeeks.org/c-plus-plus/](http://www.geeksforgeeks.org/c-plus-plus/) - C++ Programming Q&A and quizzes from computer science portal for geeks.
+- [http://www.sanfoundry.com/cplusplus-interview-questions-answers/](http://www.sanfoundry.com/cplusplus-interview-questions-answers/) - 1000+ Multiple Choice Questions & Answers in C++ with explanations.
+- [https://github.com/haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions written in C++.
 
 ## C
 
