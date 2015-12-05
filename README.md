@@ -259,6 +259,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.linuxtechi.com/experience-linux-admin-interview-questions/
 - http://www.toptal.com/linux/interview-questions
 - https://www.linux.com/news/featured-blogs/200-libby-clark/842913-10-job-interview-questions-for-linux-sysadmins
+- https://github.com/starandtina/backend-interview-questions
 
 ## Lisp
 
