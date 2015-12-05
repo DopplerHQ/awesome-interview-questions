@@ -16,6 +16,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [BackboneJS](#backbonejs)
 - [C++](#c)
 - [C](#c-1)
+- [C♯](#c-2)
+- [.NET](#.net)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [CSS](#css)
@@ -52,10 +54,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - https://github.com/derekargueta/Android-Interview-Questions
 - http://www.toptal.com/android/interview-questions
 - http://www.careerride.com/android-interview-questions.aspx
-- http://www.javatpoint.com/android-interview-questions
 - https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer
-- http://www.geekinterview.com/Interview-Questions/Android
-- http://www.itechaleart.com/2015/02/android-interview-qa.html
 - http://javatechig.com/android/android-interview-questions
 - http://www.tutorialspoint.com/android/android_interview_questions.htm
 - http://career.guru99.com/50-android-interview-questions-answers/
@@ -101,6 +100,21 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.geekinterview.com/Interview-Questions/Languages/C
 - http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/
 - http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/
+
+## C♯
+
+- http://www.toptal.com/c-sharp/interview-questions
+- http://career.guru99.com/top-50-c-sharp-interview-questions-answers/
+- http://www.dotnetfunda.com/interviews/cat/6/csharp
+- http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers
+
+## .NET
+
+- http://www.indiabix.com/technical/dotnet/
+- http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners
+- http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer
+- http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx
+- http://www.careerride.com/ASPNet-Questions.aspx
 
 ## Clojure
 
