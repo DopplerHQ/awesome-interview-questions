@@ -99,10 +99,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## C♯
 
-- [http://www.toptal.com/c-sharp/interview-questions](http://www.toptal.com/c-sharp/interview-questions) - 
-- [http://career.guru99.com/top-50-c-sharp-interview-questions-answers/](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/) - 
-- [http://www.dotnetfunda.com/interviews/cat/6/csharp](http://www.dotnetfunda.com/interviews/cat/6/csharp) - 
-- [http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers](http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers) - 
+- [http://www.toptal.com/c-sharp/interview-questions](http://www.toptal.com/c-sharp/interview-questions) - 6 Essential C# Interview Question from top 3% developers company.
+- [http://career.guru99.com/top-50-c-sharp-interview-questions-answers/](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/) - Top 50 C# Interview Questions & Answers.
+- [http://www.dotnetfunda.com/interviews/cat/6/csharp](http://www.dotnetfunda.com/interviews/cat/6/csharp) - C# interview questions from dotnetfunda.com
+- [http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers](http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers) - Top 100 C# Interview Questions and Answers
 
 ## .NET
 
