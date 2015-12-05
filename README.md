@@ -72,10 +72,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## BackboneJS
 
-- http://www.toptal.com/backbone-js/interview-questions
-- http://career.guru99.com/top-25-backbone-js-interview-questions/
-- http://www.web-technology-experts-notes.in/2015/01/backbone-js-interview-questions-and-answers.html
-- http://www.dotnet-tricks.com/Tutorial/backbone/R2T3010414-What-is-Backbone.js-and-why-to-use-it?.html
+- [http://www.toptal.com/backbone-js/interview-questions](http://www.toptal.com/backbone-js/interview-questions) - 8 Essential Backbone.js Interview Questions from top 3% developers company.
+- [http://career.guru99.com/top-25-backbone-js-interview-questions/](http://career.guru99.com/top-25-backbone-js-interview-questions/) - Top 25 Backbone.js interview questions
+- [http://www.web-technology-experts-notes.in/2015/01/backbone-js-interview-questions-and-answers.html](http://www.web-technology-experts-notes.in/2015/01/backbone-js-interview-questions-and-answers.html) - Backbone.js Interview Questions And Answers from web technology experts notes.
 
 ## C++
 
