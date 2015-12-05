@@ -17,6 +17,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [C++](#c)
 - [C](#c-1)
 - [C♯](#c-2)
+- [.NET](#.net)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [CSS](#css)
@@ -106,6 +107,14 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://career.guru99.com/top-50-c-sharp-interview-questions-answers/
 - http://www.dotnetfunda.com/interviews/cat/6/csharp
 - http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers
+
+## .NET
+
+- http://www.indiabix.com/technical/dotnet/
+- http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners
+- http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer
+- http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx
+- http://www.careerride.com/ASPNet-Questions.aspx
 
 ## Clojure
 
