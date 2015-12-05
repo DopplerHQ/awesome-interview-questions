@@ -90,14 +90,12 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## C
 
-- http://www.tutorialspoint.com/cprogramming/cprogramming_interview_questions.htm
-- http://www.indiabix.com/technical/c/
-- http://www.indiabix.com/technical/c/the-c-language-basics/
-- http://placement.freshersworld.com/power-preparation/technical-interview-questions/C-programming-answers-21419
-- http://www.cquestions.com/2010/10/c-interview-questions-and-answers.html
-- http://www.geekinterview.com/Interview-Questions/Languages/C
-- http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/
-- http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/
+- [http://www.tutorialspoint.com/cprogramming/cprogramming_interview_questions.htm](http://www.tutorialspoint.com/cprogramming/cprogramming_interview_questions.htm) - C Programming Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of C Programming.
+- [http://www.indiabix.com/technical/c/](http://www.indiabix.com/technical/c/) - C Programming Interview Questions and Answers for such topics as Bits and Bytes, Preprocessors, Functions, Strings, Language basics and etc.
+- [http://placement.freshersworld.com/power-preparation/technical-interview-questions/C-programming-answers-21419](http://placement.freshersworld.com/power-preparation/technical-interview-questions/C-programming-answers-21419) - 165 C interview questions.
+- [http://www.cquestions.com/2010/10/c-interview-questions-and-answers.html](http://www.cquestions.com/2010/10/c-interview-questions-and-answers.html) - Basic C language technical frequently asked interview questions and answers. It includes data structures, pointers interview questions and answers for experienced.
+- [http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/) - First set of commonly asked C programming interview questions from computer science portal for geeks.
+- [http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/) - Second set of commonly asked C programming interview questions from computer science portal for geeks.
 
 ## C♯
 
