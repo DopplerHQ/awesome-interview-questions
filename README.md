@@ -70,21 +70,20 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Android
 
-* [https://github.com/derekargueta/Android-Interview-Questions](https://github.com/derekargueta/Android-Interview-Questions) - Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc.
-* [http://www.toptal.com/android/interview-questions](http://www.toptal.com/android/interview-questions) - 14 Essential Android Interview Questions from top 3% developers company.
-* [http://www.careerride.com/android-interview-questions.aspx](http://www.careerride.com/android-interview-questions.aspx) - Android interview questions and answers for freshers and experienced candidates. Also there you can find Android online practice tests to fight written tests and certification exams on Android. 
-* [https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer](https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer) - A couple of Android questions posted by Quora users.
-* [http://javatechig.com/android/android-interview-questions](http://www.careerride.com/android-interview-questions.aspx) - 10 Android interview question answers for Freshers.
-* [http://www.tutorialspoint.com/android/android_interview_questions.htm](http://www.tutorialspoint.com/android/android_interview_questions.htm) - A great list of Android interview questions covering all the aspects of this career.
-* [http://career.guru99.com/50-android-interview-questions-answers/](http://career.guru99.com/50-android-interview-questions-answers/) - 
-- 50 android interview questions & answers.
+* [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions)
+* [14 Essential Android Interview Questions from top 3% developers company](http://www.toptal.com/android/interview-questions)
+* [Android interview questions and answers for freshers and experienced candidates. Also there you can find Android online practice tests to fight written tests and certification exams on Android](http://www.careerride.com/android-interview-questions.aspx)
+* [A couple of Android questions posted by Quora users](https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer)
+* [10 Android interview question answers for Freshers](http://www.careerride.com/android-interview-questions.aspx)
+* [A great list of Android interview questions covering all the aspects of this career](http://www.tutorialspoint.com/android/android_interview_questions.htm)
+* [50 android interview questions & answers](http://career.guru99.com/50-android-interview-questions-answers/).
 
 ### AngularJS
 
 - [https://github.com/gdi2290/ngExam](https://github.com/gdi2290/ngExam) - An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass.
 - [http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers) - This article discusses the top 50 Most occurred AngularJS interview question with answers.
 - [http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm) - AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS.
-- [http://www.toptal.com/angular-js/interview-questions](http://www.toptal.com/angular-js/interview-questions) - 10 Essential AngularJS Interview Questions from top 3% developers company. 
+- [http://www.toptal.com/angular-js/interview-questions](http://www.toptal.com/angular-js/interview-questions) - 10 Essential AngularJS Interview Questions from top 3% developers company.
 - [http://career.guru99.com/top-25-angular-js-interview-questions/](http://career.guru99.com/top-25-angular-js-interview-questions/) - Top 25 Angular.js Interview Questions and Quiz.
 - [http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan](http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan) - AngularJS Interview Questions and Answers by Shailendra Chauhan
 - [http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html](http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html) - AngularJS interview questions and answers for experienced developers.
@@ -101,7 +100,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://www.toptal.com/c-plus-plus/interview-questions](http://www.toptal.com/c-plus-plus/interview-questions) - 6 Essential C++ Interview Questions from top 3% developers company.
 - [http://www.careerride.com/C++-Interview-questions-Answer.aspx](http://www.careerride.com/C++-Interview-questions-Answer.aspx) - 200 C++ interview questions and answers.
 - [http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus](http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus) - C++ Interview Questions from GeekInterview.
-- [http://www.indiabix.com/cpp-programming/questions-and-answers/](http://www.indiabix.com/cpp-programming/questions-and-answers/) - C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc. 
+- [http://www.indiabix.com/cpp-programming/questions-and-answers/](http://www.indiabix.com/cpp-programming/questions-and-answers/) - C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc.
 - [http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers](http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers) - C++ Interview Questions and Answers for Freshers and Experienced developers.
 - [http://www.geeksforgeeks.org/c-plus-plus/](http://www.geeksforgeeks.org/c-plus-plus/) - C++ Programming Q&A and quizzes from computer science portal for geeks.
 - [http://www.sanfoundry.com/cplusplus-interview-questions-answers/](http://www.sanfoundry.com/cplusplus-interview-questions-answers/) - 1000+ Multiple Choice Questions & Answers in C++ with explanations.
@@ -171,7 +170,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [http://career.guru99.com/top-20-go-programming-interview-questions/](http://career.guru99.com/top-20-go-programming-interview-questions/) - Top 20 GO Programming Interview Questions for both freshers and experienced developers.
 - [https://github.com/mrekucci/epi](https://github.com/mrekucci/epi) - Solutions for Elements of Programming Interviews problems written in Golang.
-- [https://github.com/efischer19/golang_ctci](https://github.com/efischer19/golang_ctci) - Solutions for some basic coding interview tasks written in Go. 
+- [https://github.com/efischer19/golang_ctci](https://github.com/efischer19/golang_ctci) - Solutions for some basic coding interview tasks written in Go.
 
 ### HTML
 
@@ -204,13 +203,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [https://github.com/donbeave/interview](https://github.com/donbeave/interview) - Data Structures and Algorithms in Java which can be useful in interview process.
 - [http://www.toptal.com/java/interview-questions](http://www.toptal.com/java/interview-questions) - 8 Essential Java Interview Questions from top 3% developers company.
 - [http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html](http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html) - Top 25 Most Frequently Asked Interview Core Java Interview Questions And Answers.
-- [http://www.javatpoint.com/corejava-interview-questions](http://www.javatpoint.com/corejava-interview-questions) - There is the list of 201 core java interview questions. The answers of the core java interview questions are short and to the point. The core java interview questions are categorized in Basics of java interview questions, OOPs interview questions, String Handling interview questions, Multithreading interview questions, collection interview questions, JDBC interview questions etc. 
+- [http://www.javatpoint.com/corejava-interview-questions](http://www.javatpoint.com/corejava-interview-questions) - There is the list of 201 core java interview questions. The answers of the core java interview questions are short and to the point. The core java interview questions are categorized in Basics of java interview questions, OOPs interview questions, String Handling interview questions, Multithreading interview questions, collection interview questions, JDBC interview questions etc.
 - [https://blog.udemy.com/java-interview-questions/](https://blog.udemy.com/java-interview-questions/) - Java Interview Questions: How to crack the TOP 15 questions.
 - [http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html) - Top 10 Tricky Java interview questions and Answers.
 - [http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html) - Top 40 Core Java Interview Questions Answers from Telephonic Round.
 
 ### JavaScript
- 
+
 - [https://github.com/nishant8BITS/101-JavaScript-Interview-Question](https://github.com/nishant8BITS/101-JavaScript-Interview-Question) - JavaScript 101 interview Question.
 - [https://github.com/kolodny/exercises](https://github.com/kolodny/exercises) - Some basic javascript coding challenges and interview questions.
 - [http://www.toptal.com/javascript/interview-questions](http://www.toptal.com/javascript/interview-questions) - 25 Essential JavaScript Interview Questions from top 3% developers company.
@@ -221,7 +220,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://www.thatjsdude.com/interview/js2.html](http://www.thatjsdude.com/interview/js2.html) - JS: Basics and Tricky Questions.
 - [https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers) - 21 Essential JavaScript Interview Questions from best mentors all over the world.
 - [http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/](http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/) - Development hiring managers and potential interviewees may find these sample JavaScript proficiency interview Q&As and code snippets useful.
-- [http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm) - JavaScript Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of JavaScript. 
+- [http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm) - JavaScript Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of JavaScript.
 
 ### KnockoutJS
 
@@ -240,7 +239,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### NodeJS
 
 - [http://www.toptal.com/nodejs/interview-questions](http://www.toptal.com/nodejs/interview-questions) - 7 Essential Node.js Interview Questions from top 3% developers company.
-- [http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm](http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm) - Node.JS Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Node.JS 
+- [http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm](http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm) - Node.JS Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Node.JS
 - [https://blog.risingstack.com/node-js-interview-questions/](https://blog.risingstack.com/node-js-interview-questions/) - There are two sides of the table: you either want to hire Node.js developers or you want to get hired as a Node.js developer. This list helps you navigate a bit in this space, giving you some questions to ask, and a list of questions you should know the answer to.
 - [http://career.guru99.com/top-25-interview-questions-on-node-js/](http://career.guru99.com/top-25-interview-questions-on-node-js/) - Top 25 Node.js Interview Questions & Answers from Career Guru.
 - [http://www.lazyquestion.com/interview-questions-and-answer/nodejs](http://www.lazyquestion.com/interview-questions-and-answer/nodejs) - Node.js Interview Questions & Answers from LazyQuestion.com
@@ -248,12 +247,12 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Objective-C
 
 - [http://andras.palfi.hu/iosobjc-interview-questions/](http://andras.palfi.hu/iosobjc-interview-questions/) - iOS/ObjC Interview Questions.
-- [http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/](http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/) - Interview Qs for Objective-C and Swift. 
+- [http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/](http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/) - Interview Qs for Objective-C and Swift.
 
 ### PHP
 
 - [http://www.toptal.com/php/interview-questions](http://www.toptal.com/php/interview-questions) - 13 Essential PHP Interview Questions from top 3% developers company.
-- [https://github.com/developerquestions/php-questions](https://github.com/developerquestions/php-questions) - Basic PHP interview questions. 
+- [https://github.com/developerquestions/php-questions](https://github.com/developerquestions/php-questions) - Basic PHP interview questions.
 - [http://www.careerride.com/PHP-Interview-Questions.aspx](http://www.careerride.com/PHP-Interview-Questions.aspx) - 100 PHP interview questions and answers from CareerRide.com
 - [http://www.woodstitch.com/resources/php-interview-questions.php](http://www.woodstitch.com/resources/php-interview-questions.php) - 20 Common PHP Job Interview Questions and Answers.
 - [http://phpinterviewquestions.co.in/](http://phpinterviewquestions.co.in/) - PHP interview questions and answers for freshers.
@@ -266,7 +265,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://www.careerride.com/python-interview-questions.aspx](http://www.careerride.com/python-interview-questions.aspx) - 50 Python interview questions and answers.
 - [https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions) - Python interview questions collected by Reddit users.
 - [http://www.bogotobogo.com/python/python_interview_questions.php](http://www.bogotobogo.com/python/python_interview_questions.php) - Interview Questions for both beginners and experts.
-- [http://career.guru99.com/top-25-python-interview-questions/](http://career.guru99.com/top-25-python-interview-questions/) - Top 25 Python Interview Questions from Career Guru. 
+- [http://career.guru99.com/top-25-python-interview-questions/](http://career.guru99.com/top-25-python-interview-questions/) - Top 25 Python Interview Questions from Career Guru.
 
 ### Ruby on Rails
 
@@ -299,7 +298,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://career.guru99.com/top-25-interview-questions-on-scala/](http://career.guru99.com/top-25-interview-questions-on-scala/) - Top 25 Scala Interview Questions & Answers from top 3% developers company.
 - [http://www.scala-lang.org/old/faq](http://www.scala-lang.org/old/faq) - A list of Frequently Asked Questions and their answers, sorted by category.
 - [https://github.com/Jarlakxen/Scala-Interview-Questions](https://github.com/Jarlakxen/Scala-Interview-Questions) - A list of helpful Scala related questions you can use to interview potential candidates.
-- [https://github.com/peterarsentev/Scala-Interview-Questions-Answers](https://github.com/peterarsentev/Scala-Interview-Questions-Answers) - Scala Interview Questions/Answers including Language Questions, Functional Programming Questions, Reactive Programming Questions. 
+- [https://github.com/peterarsentev/Scala-Interview-Questions-Answers](https://github.com/peterarsentev/Scala-Interview-Questions-Answers) - Scala Interview Questions/Answers including Language Questions, Functional Programming Questions, Reactive Programming Questions.
 - [http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed](http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed) - How Scala Developers Are Being Interviewed.
 - [http://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/](http://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/) - 4 Interview Questions for Scala Developers.
 
@@ -330,7 +329,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### MongoDB
 
 - [http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm](http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm) - MongoDB Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of MongoDB.
-- [http://theprofessionalspoint.blogspot.com.by/2014/01/28-mongodb-nosql-database-interview.html](http://theprofessionalspoint.blogspot.com.by/2014/01/28-mongodb-nosql-database-interview.html) - 28 MongoDB NoSQL Database Interview Questions and Answers. 
+- [http://theprofessionalspoint.blogspot.com.by/2014/01/28-mongodb-nosql-database-interview.html](http://theprofessionalspoint.blogspot.com.by/2014/01/28-mongodb-nosql-database-interview.html) - 28 MongoDB NoSQL Database Interview Questions and Answers.
 - [http://www.javatpoint.com/mongodb-interview-questions](http://www.javatpoint.com/mongodb-interview-questions) - MongoDB Interview Questions from JavaTPoint.com.
 - [http://career.guru99.com/top-20-mongodb-interview-questions/](http://career.guru99.com/top-20-mongodb-interview-questions/) - Top 20 MongoDB interview questions from Career Guru.
 - [http://www.globalguideline.com/interview_questions/Questions.php?sc=MongoDB](http://www.globalguideline.com/interview_questions/Questions.php?sc=MongoDB) - MongoDB frequently Asked Questions by expert members with experience in MongoDB. These questions and answers will help you strengthen your technical skills, prepare for the new job test and quickly revise the concepts.
@@ -341,7 +340,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://www.tecmint.com/basic-mysql-interview-questions-for-database-administrators/](http://www.tecmint.com/basic-mysql-interview-questions-for-database-administrators/) - 15 Basic MySQL Interview Questions for Database Administrators.
 - [http://www.tecmint.com/10-mysql-database-interview-questions-for-beginners-and-intermediates/](http://www.tecmint.com/10-mysql-database-interview-questions-for-beginners-and-intermediates/) - 10 MySQL Database Interview Questions for Beginners and Intermediates.
 - [http://career.guru99.com/top-50-mysql-interview-questions-answers/](http://career.guru99.com/top-50-mysql-interview-questions-answers/) - Top 50 MySQL Interview Questions & Answers from Career Guru.
-- [http://www.testingbrain.com/interview/mysql-interview-questions.html](http://www.testingbrain.com/interview/mysql-interview-questions.html) - 40 Basic MySQL Interview Questions with Answers. 
+- [http://www.testingbrain.com/interview/mysql-interview-questions.html](http://www.testingbrain.com/interview/mysql-interview-questions.html) - 40 Basic MySQL Interview Questions with Answers.
 - [http://www.javatpoint.com/mysql-interview-questions](http://www.javatpoint.com/mysql-interview-questions) - 28 MySQL interview questions from JavaTPoint.com
 
 ### Neo4j
@@ -361,7 +360,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### SQL
 
-- [http://www.toptal.com/sql/interview-questions](http://www.toptal.com/sql/interview-questions) - 18 Essential SQL Interview Questions from top 3% developers company. 
+- [http://www.toptal.com/sql/interview-questions](http://www.toptal.com/sql/interview-questions) - 18 Essential SQL Interview Questions from top 3% developers company.
 - [http://dwbi.org/database/sql/72-top-20-sql-interview-questions-with-answers](http://dwbi.org/database/sql/72-top-20-sql-interview-questions-with-answers) - Top 20 SQL Interview Questions with Answers.
 - [http://www.indiabix.com/technical/sql-server-common-questions/](http://www.indiabix.com/technical/sql-server-common-questions/) - SQL Server - Common Interview Questions and Answers.
 - [http://www.indiabix.com/technical/sql-server-general-questions/](http://www.indiabix.com/technical/sql-server-general-questions/) - SQL Server - General Interview Questions and Answers.
@@ -387,7 +386,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Windows
 
-- [http://career.guru99.com/top-22-windows-server-interview-questions/](http://career.guru99.com/top-22-windows-server-interview-questions/) - Top 22 Windows Server Interview Questions from Career Guru. 
+- [http://career.guru99.com/top-22-windows-server-interview-questions/](http://career.guru99.com/top-22-windows-server-interview-questions/) - Top 22 Windows Server Interview Questions from Career Guru.
 - [http://www.01world.in/p/windows.html](http://www.01world.in/p/windows.html) - Windows Admin Interview Questions & Answers
 - [http://www.brentozar.com/archive/2009/07/top-10-interview-questions-for-windows-sysadmins/](http://www.brentozar.com/archive/2009/07/top-10-interview-questions-for-windows-sysadmins/) - Top 10 Interview Questions for Windows Administrators
 
