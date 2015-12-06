@@ -106,39 +106,33 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## .NET
 
-- [http://www.indiabix.com/technical/dotnet/](http://www.indiabix.com/technical/dotnet/) - 
-- [http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners](http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners) - 
-- [http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer](http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer) - 
-- [http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx) - 
-- [http://www.careerride.com/ASPNet-Questions.aspx](http://www.careerride.com/ASPNet-Questions.aspx) - 
+- [http://www.indiabix.com/technical/dotnet/](http://www.indiabix.com/technical/dotnet/) - Great list of .NET interview questions covering all the .NET platform topics.
+- [http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners](http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners) - .NET Interview Questions and Answers for Beginners which consists of the most frequently asked questions in .NET. This list of 100+ questions and answers gauge your familiarity with the .NET platform.
+- [http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer](http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer) - Questions gathered by community of the StackOverflow
+- [http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx) - What Great .NET Developers Ought To Know (More .NET Interview Questions).
+- [http://www.careerride.com/ASPNet-Questions.aspx](http://www.careerride.com/ASPNet-Questions.aspx) - 300 ASP.NET interview questions and answers.
 
 ## Clojure
 
-- [https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/](https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/) - 
-- [http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html](http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html) - 
-- [http://ita2zguide.blogspot.com.by/p/cc.html](http://ita2zguide.blogspot.com.by/p/cc.html) - 
-- [https://github.com/dpetrovics/coding-exercises](https://github.com/dpetrovics/coding-exercises) - 
+- [https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/](https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/) - Experience and questions from Clojure developer interview collected by Reddit users.
+- [http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html](http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html) - Classic 'Fizz Buzz' interview question for Clojure developers.
+- [http://ita2zguide.blogspot.com.by/p/cc.html](http://ita2zguide.blogspot.com.by/p/cc.html) - Clojure Interview Questions for experienced devs.
+- [https://github.com/dpetrovics/coding-exercises](https://github.com/dpetrovics/coding-exercises) - Coding exercises in Clojure, handy practice for technical interview questions.
 
 ## CoffeeScript
 
-- [http://career.guru99.com/top-25-coffeescript-interview-questions/](http://career.guru99.com/top-25-coffeescript-interview-questions/) - 
-- [http://www.toptal.com/coffeescript/interview-questions](http://www.toptal.com/coffeescript/interview-questions) - 
+- [http://career.guru99.com/top-25-coffeescript-interview-questions/](http://career.guru99.com/top-25-coffeescript-interview-questions/) - Top 25 CoffeeScript Interview Questions for Freshers and Beginners.
 
 ## CSS
 
-- [https://github.com/developerquestions/css-questions](https://github.com/developerquestions/css-questions) - 
-- [https://github.com/bargitta/cssInterview](https://github.com/bargitta/cssInterview) - 
-- [https://css-tricks.com/interview-questions-css/](https://css-tricks.com/interview-questions-css/) - 
-- [http://www.skilledup.com/articles/25-css-interview-questions-answers](http://www.skilledup.com/articles/25-css-interview-questions-answers) - 
-- [http://www.careerride.com/Interview-Questions-CSS.aspx](http://www.careerride.com/Interview-Questions-CSS.aspx) - 
-- [http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/](http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/) - 
-- [http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html) - 
-- [http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/) - 
-- [http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe) - 
-- [https://github.com/h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - 
+- [https://css-tricks.com/interview-questions-css/](https://css-tricks.com/interview-questions-css/) - Interview Questions and Exercises About CSS
+- [http://www.skilledup.com/articles/25-css-interview-questions-answers](http://www.skilledup.com/articles/25-css-interview-questions-answers) - 25 helpful CSS interview questions and answers.
+- [http://www.careerride.com/Interview-Questions-CSS.aspx](http://www.careerride.com/Interview-Questions-CSS.aspx) - CSS interview questions and answers for freshers and experienced candidates. Also there you can find CSS online practice tests to fight written tests and certification exams on CSS.
+- [http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/](http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/) - Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&As and code snippets useful.
+- [http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/) - Top 50 CSS(Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments.
 
 ## Design Pattern
-- [http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm) - 
+- [http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm) - Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern.
 
 ## Django
 
@@ -179,7 +173,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://www.geekinterview.com/Interview-Questions/Web/Html](http://www.geekinterview.com/Interview-Questions/Web/Html) - 
 - [http://techpreparation.com/html-interview-questions-answers1.htm#.VlmapN8rLXE](http://techpreparation.com/html-interview-questions-answers1.htm#.VlmapN8rLXE) - 
 - [http://www.careerride.com/Interview-Questions-HTML.aspx](http://www.careerride.com/Interview-Questions-HTML.aspx) - 
-- [https://github.com/h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - 
+- [https://github.com/h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) -
+- [http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe) -
 
 ## Ionic
 
@@ -412,6 +407,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html](http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html) - 
 - [https://grokswift.com/interview-questions/](https://grokswift.com/interview-questions/) - 
 - [http://datacalculation.blogspot.com.by/2014/09/best-ios-interview-questions-on-swift.html](http://datacalculation.blogspot.com.by/2014/09/best-ios-interview-questions-on-swift.html) - 
+
+## Front-end
 
 ## License
 
