@@ -394,6 +394,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html) - Top 15 Data Structures and Algorithm Interview Questions for Java programmer.
 - [http://java2novice.com/java-interview-programs/](http://java2novice.com/java-interview-programs/) - A great list of Java interview questions.
 - [https://github.com/sagivo/algorithms](https://github.com/sagivo/algorithms) - Algorithms playground for common interview questions written in Ruby.
+- [https://github.com/EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - EKAlgorithms contains some well known CS algorithms & data structures.
 
 ## Coding exercises
 
