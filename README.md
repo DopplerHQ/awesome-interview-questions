@@ -59,6 +59,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Windows](#windows)
 - [Algorithms](#algorithms)
 - [Coding exercises](#coding-exercises)
+- [Comprehensive lists](#comprehensive-lists)
 - [Design patterns](#design-patterns)
 - [Data structures](#data-structures)
 - [Networks](#networks)
@@ -400,6 +401,12 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [https://github.com/roseperrone/interview-questions](https://github.com/roseperrone/interview-questions) - Interview questions solved in python.
 - [https://github.com/donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions.
+
+## Comprehensive lists
+
+- [https://github.com/h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+- [https://github.com/starandtina/backend-interview-questions](https://github.com/starandtina/backend-interview-questions) - Some simple questions to interview potential backend candidates.
+- [http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html) - Front End Developer Interview Questions.
 
 ## Design Patterns
 - [http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm) - Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern.
