@@ -392,6 +392,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Algorithms
 
 - [http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) - Top 10 Algorithms for Coding Interview.
+- [https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour](https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour) - Five programming problems every Software Engineer should be able to solve in less than 1 hour.
 - [http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html) - Top 15 Data Structures and Algorithm Interview Questions for Java programmer.
 - [http://java2novice.com/java-interview-programs/](http://java2novice.com/java-interview-programs/) - A great list of Java interview questions.
 - [https://github.com/sagivo/algorithms](https://github.com/sagivo/algorithms) - Algorithms playground for common interview questions written in Ruby.
