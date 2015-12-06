@@ -4,14 +4,13 @@
 
 [What makes for an awesome list?](awesome.md)
 
-
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
 **Check out my [blog](https://medium.com/@MaximAbramchuk) or say *hi* on [Twitter](https://twitter.com/maximabramchuck).**
 
 ### Table of Contents
 
-- [Programming Languages/Frameworks/Platforms](#)
+- [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
   - [Android](#android)
   - [AngularJS](#angularjs)
   - [BackboneJS](#backbonejs)
@@ -43,17 +42,25 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Ruby](#ruby)
   - [SASS](#sass)
   - [Scala](#scala)
+  - [Shell](#shell)
   - [Swift](#swift)
 - [Database technologies](#database-technologies)
   - [MongoDB](#mongodb)
   - [MySQL](#mysql)
   - [Postgres](#postgres)
   - [SQL](#sql)
+  - [Oracle](#oracle)
+  - [SQL Lite](#sql-lite)
+  - [Cassandra](#cassandra)
+  - [Neo4j](#neo4j)
+  - [Microsoft Access](#microsoft-access)
 - [OS](#os)
   - [Linux](#linux)
+  - [Windows](#windows)
 - [Algorithms](#algorithms)
 - [Coding exercises](#coding-exercises)
 - [Design patterns](#design-patterns)
+- [Data structures](#data-structures)
 - [Networks](#networks)
 - [Security](#security)
 
@@ -294,15 +301,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed](http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed) - How Scala Developers Are Being Interviewed.
 - [http://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/](http://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/) - 4 Interview Questions for Scala Developers.
 
-### SQL
+### Shell
 
-- [http://www.toptal.com/sql/interview-questions](http://www.toptal.com/sql/interview-questions) - 18 Essential SQL Interview Questions from top 3% developers company. 
-- [http://dwbi.org/database/sql/72-top-20-sql-interview-questions-with-answers](http://dwbi.org/database/sql/72-top-20-sql-interview-questions-with-answers) - Top 20 SQL Interview Questions with Answers.
-- [http://www.indiabix.com/technical/sql-server-common-questions/](http://www.indiabix.com/technical/sql-server-common-questions/) - SQL Server - Common Interview Questions and Answers.
-- [http://www.indiabix.com/technical/sql-server-general-questions/](http://www.indiabix.com/technical/sql-server-general-questions/) - SQL Server - General Interview Questions and Answers.
-- [http://www.tutorialspoint.com/sql/sql_interview_questions.htm](http://www.tutorialspoint.com/sql/sql_interview_questions.htm) - SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL.
-- [http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html](http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) - 10 Frequently asked SQL Query Interview Questions.
-- [https://github.com/XD-DENG/SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - Schema, Questions & Solutions for SQL Exercising.
+- [http://career.guru99.com/shell-scripting-interview-questions/](http://career.guru99.com/shell-scripting-interview-questions/) - Top 50 Shell Scripting Interview Questions from Career Guru.
 
 ### Swift
 
@@ -339,6 +340,36 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://www.testingbrain.com/interview/mysql-interview-questions.html](http://www.testingbrain.com/interview/mysql-interview-questions.html) - 40 Basic MySQL Interview Questions with Answers. 
 - [http://www.javatpoint.com/mysql-interview-questions](http://www.javatpoint.com/mysql-interview-questions) - 28 MySQL interview questions from JavaTPoint.com
 
+### SQL
+
+- [http://www.toptal.com/sql/interview-questions](http://www.toptal.com/sql/interview-questions) - 18 Essential SQL Interview Questions from top 3% developers company. 
+- [http://dwbi.org/database/sql/72-top-20-sql-interview-questions-with-answers](http://dwbi.org/database/sql/72-top-20-sql-interview-questions-with-answers) - Top 20 SQL Interview Questions with Answers.
+- [http://www.indiabix.com/technical/sql-server-common-questions/](http://www.indiabix.com/technical/sql-server-common-questions/) - SQL Server - Common Interview Questions and Answers.
+- [http://www.indiabix.com/technical/sql-server-general-questions/](http://www.indiabix.com/technical/sql-server-general-questions/) - SQL Server - General Interview Questions and Answers.
+- [http://www.tutorialspoint.com/sql/sql_interview_questions.htm](http://www.tutorialspoint.com/sql/sql_interview_questions.htm) - SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL.
+- [http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html](http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) - 10 Frequently asked SQL Query Interview Questions.
+- [https://github.com/XD-DENG/SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - Schema, Questions & Solutions for SQL Exercising.
+
+### Oracle
+
+- [http://www.coolinterview.com/type.asp?iType=57](http://www.coolinterview.com/type.asp?iType=57) - General Oracle Interview Questions & Answers.
+
+### SQL Lite
+
+- [http://career.guru99.com/top-20-sql-lite-interview-questions/](http://career.guru99.com/top-20-sql-lite-interview-questions/) - Top 20 SQL LITE  Interview Questions from Career Guru.
+
+### Cassandra
+
+- [http://career.guru99.com/top-23-cassandra-interview-questions/](http://career.guru99.com/top-23-cassandra-interview-questions/) - Top 23 Cassandra Interview Questions from Career Guru.
+
+### Neo4j
+
+- [http://career.guru99.com/top-20-ne04j-interview-questions/](http://career.guru99.com/top-20-ne04j-interview-questions/) - Top 20 Neo4j Interview Questions from Career Guru.
+
+### Microsoft Access
+
+- [http://career.guru99.com/top-16-ms-access-database-interview-questions/](http://career.guru99.com/top-16-ms-access-database-interview-questions/) - Top 16 Microsoft Access Database Interview Questions from Career Guru.
+
 ## OS
 
 ### Linux
@@ -351,9 +382,18 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://www.toptal.com/linux/interview-questions](http://www.toptal.com/linux/interview-questions) - 11 Essential Linux Interview Questions from top 3% developers company.
 - [https://www.linux.com/news/featured-blogs/200-libby-clark/842913-10-job-interview-questions-for-linux-sysadmins](https://www.linux.com/news/featured-blogs/200-libby-clark/842913-10-job-interview-questions-for-linux-sysadmins) - 10 Job Interview Questions for Linux System Administrators from Linux.com
 
+### Windows
+
+- [http://career.guru99.com/top-22-windows-server-interview-questions/](http://career.guru99.com/top-22-windows-server-interview-questions/) - Top 22 Windows Server Interview Questions from Career Guru. 
+- [http://www.01world.in/p/windows.html](http://www.01world.in/p/windows.html) - Windows Admin Interview Questions & Answers
+- [http://www.brentozar.com/archive/2009/07/top-10-interview-questions-for-windows-sysadmins/](http://www.brentozar.com/archive/2009/07/top-10-interview-questions-for-windows-sysadmins/) - Top 10 Interview Questions for Windows Administrators
+
 ## Algorithms
 
-- [https://github.com/sagivo/algorithms](https://github.com/sagivo/algorithms) - in ruby
+- [http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) - Top 10 Algorithms for Coding Interview.
+- [http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html) - Top 15 Data Structures and Algorithm Interview Questions for Java programmer.
+- [http://java2novice.com/java-interview-programs/](http://java2novice.com/java-interview-programs/) - A great list of Java interview questions.
+- [https://github.com/sagivo/algorithms](https://github.com/sagivo/algorithms) - Algorithms playground for common interview questions written in Ruby.
 
 ## Coding exercises
 
@@ -363,9 +403,21 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Design Patterns
 - [http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm) - Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern.
 
+## Data structures
+
+- [http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html) - Top 15 Data Structures and Algorithm Interview Questions for Java programmer.
+- [http://career.guru99.com/top-50-data-structure-interview-questions/](http://career.guru99.com/top-50-data-structure-interview-questions/) - Top 50 Data Structure Interview Questions from Career Guru.
+
 ## Networks
 
+- [http://career.guru99.com/top-100-networking-interview-questions-answers/](http://career.guru99.com/top-100-networking-interview-questions-answers/) - Top 100 Networking Interview Questions & Answers from Career Guru.
+
 ## Security
+
+- [https://danielmiessler.com/study/infosec_interview_questions/](https://danielmiessler.com/study/infosec_interview_questions/) - Information Security Interview Questions from Daniel Miessler.
+- [http://resources.infosecinstitute.com/top-50-information-security-interview-questions/](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/) - Top 50 Information Security Interview Questions for freshers and experts.
+- [http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview](http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview) - How to prepare for an information security job interview?
+- [http://careers.simplicable.com/careers/new/101-IT-security-interview-questions](http://careers.simplicable.com/careers/new/101-IT-security-interview-questions) - 101 IT Security Interview Questions.
 
 ### License
 
