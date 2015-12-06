@@ -45,15 +45,16 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Shell](#shell)
   - [Swift](#swift)
 - [Database technologies](#database-technologies)
+  - [Cassandra](#cassandra)
+  - [Microsoft Access](#microsoft-access)
   - [MongoDB](#mongodb)
   - [MySQL](#mysql)
+  - [Neo4j](#neo4j)
+  - [Oracle](#oracle)
   - [Postgres](#postgres)
   - [SQL](#sql)
-  - [Oracle](#oracle)
   - [SQL Lite](#sql-lite)
-  - [Cassandra](#cassandra)
-  - [Neo4j](#neo4j)
-  - [Microsoft Access](#microsoft-access)
+
 - [OS](#os)
   - [Linux](#linux)
   - [Windows](#windows)
@@ -317,12 +318,14 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Database technologies
 
-### Postgres
 
-- [http://nazafbtemplate.blogspot.com.by/2014/06/frequently-asked-basic-postgresql.html](http://nazafbtemplate.blogspot.com.by/2014/06/frequently-asked-basic-postgresql.html) - Frequently Asked Basic PostgreSQL Interview Questions and Answers.
-- [http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_](http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_) - PostgreSQL Interview Preparation Guide.
-- [http://www.dotnetfunda.com/interviews/cat/208/postgresql](http://www.dotnetfunda.com/interviews/cat/208/postgresql) - 13 PostgreSQL Interview Q&A.
-- [http://www.coolinterview.com/type.asp?iType=411](http://www.coolinterview.com/type.asp?iType=411) - PostgreSQL Interview Q&A from CoolInterview.com
+### Cassandra
+
+- [http://career.guru99.com/top-23-cassandra-interview-questions/](http://career.guru99.com/top-23-cassandra-interview-questions/) - Top 23 Cassandra Interview Questions from Career Guru.
+
+### Microsoft Access
+
+- [http://career.guru99.com/top-16-ms-access-database-interview-questions/](http://career.guru99.com/top-16-ms-access-database-interview-questions/) - Top 16 Microsoft Access Database Interview Questions from Career Guru.
 
 ### MongoDB
 
@@ -341,6 +344,21 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://www.testingbrain.com/interview/mysql-interview-questions.html](http://www.testingbrain.com/interview/mysql-interview-questions.html) - 40 Basic MySQL Interview Questions with Answers. 
 - [http://www.javatpoint.com/mysql-interview-questions](http://www.javatpoint.com/mysql-interview-questions) - 28 MySQL interview questions from JavaTPoint.com
 
+### Neo4j
+
+- [http://career.guru99.com/top-20-ne04j-interview-questions/](http://career.guru99.com/top-20-ne04j-interview-questions/) - Top 20 Neo4j Interview Questions from Career Guru.
+
+### Oracle
+
+- [http://www.coolinterview.com/type.asp?iType=57](http://www.coolinterview.com/type.asp?iType=57) - General Oracle Interview Questions & Answers.
+
+### Postgres
+
+- [http://nazafbtemplate.blogspot.com.by/2014/06/frequently-asked-basic-postgresql.html](http://nazafbtemplate.blogspot.com.by/2014/06/frequently-asked-basic-postgresql.html) - Frequently Asked Basic PostgreSQL Interview Questions and Answers.
+- [http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_](http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_) - PostgreSQL Interview Preparation Guide.
+- [http://www.dotnetfunda.com/interviews/cat/208/postgresql](http://www.dotnetfunda.com/interviews/cat/208/postgresql) - 13 PostgreSQL Interview Q&A.
+- [http://www.coolinterview.com/type.asp?iType=411](http://www.coolinterview.com/type.asp?iType=411) - PostgreSQL Interview Q&A from CoolInterview.com
+
 ### SQL
 
 - [http://www.toptal.com/sql/interview-questions](http://www.toptal.com/sql/interview-questions) - 18 Essential SQL Interview Questions from top 3% developers company. 
@@ -351,25 +369,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html](http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) - 10 Frequently asked SQL Query Interview Questions.
 - [https://github.com/XD-DENG/SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - Schema, Questions & Solutions for SQL Exercising.
 
-### Oracle
-
-- [http://www.coolinterview.com/type.asp?iType=57](http://www.coolinterview.com/type.asp?iType=57) - General Oracle Interview Questions & Answers.
-
 ### SQL Lite
 
 - [http://career.guru99.com/top-20-sql-lite-interview-questions/](http://career.guru99.com/top-20-sql-lite-interview-questions/) - Top 20 SQL LITE  Interview Questions from Career Guru.
-
-### Cassandra
-
-- [http://career.guru99.com/top-23-cassandra-interview-questions/](http://career.guru99.com/top-23-cassandra-interview-questions/) - Top 23 Cassandra Interview Questions from Career Guru.
-
-### Neo4j
-
-- [http://career.guru99.com/top-20-ne04j-interview-questions/](http://career.guru99.com/top-20-ne04j-interview-questions/) - Top 20 Neo4j Interview Questions from Career Guru.
-
-### Microsoft Access
-
-- [http://career.guru99.com/top-16-ms-access-database-interview-questions/](http://career.guru99.com/top-16-ms-access-database-interview-questions/) - Top 16 Microsoft Access Database Interview Questions from Career Guru.
 
 ## OS
 
