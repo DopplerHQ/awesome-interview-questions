@@ -215,7 +215,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [25 Essential JavaScript Interview Questions from top 3% developers company](http://www.toptal.com/javascript/interview-questions)
 * [Some JavaScript interview exercises](https://github.com/csvenja/javascript-exercises)
 * [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
-* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.3iur53len](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 * [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
 * [21 Essential JavaScript Interview Questions from best mentors all over the world](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
