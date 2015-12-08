@@ -38,7 +38,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [PHP](#php)
   - [Python](#python)
   - [ReactJS](#reactjs)
-  - [Rails](#rails)
+  - [Rails](#ruby-on-rails)
   - [Ruby](#ruby)
   - [Sass](#sass)
   - [Scala](#scala)
