@@ -40,7 +40,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [ReactJS](#reactjs)
   - [Rails](#rails)
   - [Ruby](#ruby)
-  - [SASS](#sass)
+  - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -289,7 +289,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [11 Essential Ruby Interview Questions from top 3% developers company](http://www.toptal.com/ruby/interview-questions)
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
 
-### SASS
+### Sass
 
 * [Top 17 Sass Interview Questions from Career Guru](http://career.guru99.com/top-17-sass-interview-questions/)
 
