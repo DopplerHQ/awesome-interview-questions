@@ -96,7 +96,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### C++
 
-* [C++ Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of C++](http://www.tutorialspoint.com/cplusplus/cpp_interview_questions.htm)
 * [6 Essential C++ Interview Questions from top 3% developers company](http://www.toptal.com/c-plus-plus/interview-questions)
 * [200 C++ interview questions and answers](http://www.careerride.com/C++-Interview-questions-Answer.aspx)
 * [C++ Interview Questions from GeekInterview](http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus)
