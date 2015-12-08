@@ -287,6 +287,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [A list of questions about Ruby programming you can use to quiz yourself](https://github.com/gregstallings/ruby-trivia)
 * [11 Essential Ruby Interview Questions from top 3% developers company](http://www.toptal.com/ruby/interview-questions)
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
+* [Algorithms Qestions Solved In Ruby by Sagiv Ofek](https://github.com/sagivo/algorithms)
 
 ### Sass
 
