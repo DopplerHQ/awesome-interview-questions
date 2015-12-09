@@ -196,7 +196,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Java
 
-* [Java Interview Questions have been designed especially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Java Programming Language](http://www.tutorialspoint.com/java/java_interview_questions.htm)
 * [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
 * [A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources](https://github.com/svozniuk/java-interviews)
 * [Data Structures and Algorithms in Java which can be useful in interview process](https://github.com/donbeave/interview)
