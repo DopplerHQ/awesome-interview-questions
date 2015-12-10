@@ -264,6 +264,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Python interview questions collected by Reddit users](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
 * [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
 * [Top 25 Python Interview Questions from Career Guru](http://career.guru99.com/top-25-python-interview-questions/)
+* [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
 
 ### Ruby on Rails
 
