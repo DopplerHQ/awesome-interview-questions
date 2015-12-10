@@ -401,6 +401,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [Interview questions solved in python](https://github.com/roseperrone/interview-questions)
 * [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges)
+* [Common interview questions and puzzles solved in a number of languages](https://github.com/mre/the-coding-interview)
 
 ## Comprehensive lists
 
