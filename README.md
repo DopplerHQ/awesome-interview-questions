@@ -17,7 +17,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [C++](#c)
   - [C](#c-1)
   - [C♯](#c-2)
-  - [.NET](#.net)
+  - [.NET](#net)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [CSS](#css)
