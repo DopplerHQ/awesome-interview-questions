@@ -266,6 +266,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
 * [Top 25 Python Interview Questions from Career Guru](http://career.guru99.com/top-25-python-interview-questions/)
 * [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
+* [Python Interview Questions from questionscompiled](http://www.questionscompiled.com/python-interview-questions.html)
+* [Interviewcake Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
 
 ### Ruby on Rails
 
@@ -410,6 +412,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
+
 
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
