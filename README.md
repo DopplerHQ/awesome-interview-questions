@@ -65,6 +65,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Data structures](#data-structures)
 - [Networks](#networks)
 - [Security](#security)
+- [Data Science](#data-science)
 
 ## Programming Languages/Frameworks/Platforms
 
@@ -433,6 +434,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 50 Information Security Interview Questions for freshers and experts](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/)
 * [How to prepare for an information security job interview?](http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview)
 * [101 IT Security Interview Questions](http://careers.simplicable.com/careers/new/101-IT-security-interview-questions)
+
+## Data Science
+* [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 
 ### License
 
