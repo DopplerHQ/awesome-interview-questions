@@ -441,7 +441,3 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/MaximAbramchuck/awesome-interviews/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
