@@ -206,6 +206,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 10 Tricky Java interview questions and Answers](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html)
 * [Top 25 Most Frequently Asked Interview Core Java Interview Questions And Answers](http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html)
 * [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
+* [Interview Cake Java Interview Questions](https://www.interviewcake.com/java-interview-questions)
 
 ### JavaScript
 
@@ -264,7 +265,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [8 Essential Python Interview Questions from top 3% developers company](http://www.toptal.com/python/interview-questions)
 * [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions)
 * [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
-* [Interviewcake Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
+* [Interview Cake Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
 * [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
 * [Python interview questions collected by Reddit users](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
 * [Python Interview Questions from questionscompiled](http://www.questionscompiled.com/python-interview-questions.html)
@@ -292,6 +293,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
 * [A list of questions about Ruby programming you can use to quiz yourself](https://github.com/gregstallings/ruby-trivia)
 * [The Art of Ruby Technical Interview](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
+* [Interview Cake Ruby Interview Questions](https://www.interviewcake.com/ruby-interview-questions)
 
 ### Sass
 
