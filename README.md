@@ -84,6 +84,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [10 Essential AngularJS Interview Questions from top 3% developers company](http://www.toptal.com/angular-js/interview-questions)
 * [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass](https://github.com/gdi2290/ngExam)
 * [AngularJS Interview Questions and Answers by Shailendra Chauhan](http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan)
+* [29 AngularJS Interview Questions – Can You Answer Them All? Great Article from Codementor](https://www.codementor.io/angularjs/tutorial/angularjs-interview-questions-sample-answers)
 * [AngularJS interview questions and answers for experienced developers](http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html)
 * [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
@@ -198,6 +199,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Java
 
 * [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
+* [37 Java Interview Questions to Practice With from Codementor](https://www.codementor.io/java/tutorial/java-interview-sample-questions-answers)
 * [8 Essential Java Interview Questions from top 3% developers company](http://www.toptal.com/java/interview-questions)
 * [A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources](https://github.com/svozniuk/java-interviews)
 * [Data Structures and Algorithms in Java which can be useful in interview process](https://github.com/donbeave/interview)
