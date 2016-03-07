@@ -222,6 +222,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Some JavaScript interview exercises](https://github.com/csvenja/javascript-exercises)
 * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
+* [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
 
 ### KnockoutJS
 
