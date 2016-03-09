@@ -215,6 +215,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [21 Essential JavaScript Interview Questions from best mentors all over the world](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
 * [25 Essential JavaScript Interview Questions from top 3% developers company](http://www.toptal.com/javascript/interview-questions)
+* [5 More JavaScript Interview Exercises](http://www.sitepoint.com/5-javascript-interview-exercises/)
 * [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 * [Development hiring managers and potential interviewees may find these sample JavaScript proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/)
 * [JavaScript 101 interview Question](https://github.com/nishant8BITS/101-JavaScript-Interview-Question)
