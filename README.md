@@ -221,6 +221,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [JavaScript 101 interview Question](https://github.com/nishant8BITS/101-JavaScript-Interview-Question)
 * [JavaScript Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of JavaScript](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 * [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
+* [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html)
 * [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 * [Some JavaScript interview exercises](https://github.com/csvenja/javascript-exercises)
 * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
