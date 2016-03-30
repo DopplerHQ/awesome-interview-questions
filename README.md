@@ -1,6 +1,6 @@
 # Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of lists of interview questions.
+> A curated list of lists of technical interview questions.
 
 [What makes for an awesome list?](awesome.md)
 
@@ -84,6 +84,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [10 Essential AngularJS Interview Questions from top 3% developers company](http://www.toptal.com/angular-js/interview-questions)
 * [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass](https://github.com/gdi2290/ngExam)
 * [AngularJS Interview Questions and Answers by Shailendra Chauhan](http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan)
+* [29 AngularJS Interview Questions – Can You Answer Them All? Great Article from Codementor](https://www.codementor.io/angularjs/tutorial/angularjs-interview-questions-sample-answers)
 * [AngularJS interview questions and answers for experienced developers](http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html)
 * [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
@@ -198,6 +199,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Java
 
 * [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
+* [37 Java Interview Questions to Practice With from Codementor](https://www.codementor.io/java/tutorial/java-interview-sample-questions-answers)
 * [8 Essential Java Interview Questions from top 3% developers company](http://www.toptal.com/java/interview-questions)
 * [A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources](https://github.com/svozniuk/java-interviews)
 * [Data Structures and Algorithms in Java which can be useful in interview process](https://github.com/donbeave/interview)
@@ -206,21 +208,25 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 10 Tricky Java interview questions and Answers](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html)
 * [Top 25 Most Frequently Asked Interview Core Java Interview Questions And Answers](http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html)
 * [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
+* [Interview Cake Java Interview Questions](https://www.interviewcake.com/java-interview-questions)
 
 ### JavaScript
 
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [21 Essential JavaScript Interview Questions from best mentors all over the world](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
 * [25 Essential JavaScript Interview Questions from top 3% developers company](http://www.toptal.com/javascript/interview-questions)
+* [5 More JavaScript Interview Exercises](http://www.sitepoint.com/5-javascript-interview-exercises/)
 * [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 * [Development hiring managers and potential interviewees may find these sample JavaScript proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/)
 * [JavaScript 101 interview Question](https://github.com/nishant8BITS/101-JavaScript-Interview-Question)
 * [JavaScript Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of JavaScript](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 * [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
+* [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html)
 * [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 * [Some JavaScript interview exercises](https://github.com/csvenja/javascript-exercises)
 * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
+* [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
 
 ### KnockoutJS
 
@@ -264,7 +270,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [8 Essential Python Interview Questions from top 3% developers company](http://www.toptal.com/python/interview-questions)
 * [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions)
 * [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
-* [Interviewcake Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
+* [Interview Cake Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
 * [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
 * [Python interview questions collected by Reddit users](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
 * [Python Interview Questions from questionscompiled](http://www.questionscompiled.com/python-interview-questions.html)
@@ -292,6 +298,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
 * [A list of questions about Ruby programming you can use to quiz yourself](https://github.com/gregstallings/ruby-trivia)
 * [The Art of Ruby Technical Interview](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
+* [Interview Cake Ruby Interview Questions](https://www.interviewcake.com/ruby-interview-questions)
 
 ### Sass
 
@@ -437,6 +444,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
+* [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 
 ### License
 
