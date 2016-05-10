@@ -78,6 +78,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [A great list of Android interview questions covering all the aspects of this career](http://www.tutorialspoint.com/android/android_interview_questions.htm)
 * [Android interview questions and answers for freshers and experienced candidates. Also there you can find Android online practice tests to fight written tests and certification exams on Android](http://www.careerride.com/android-interview-questions.aspx)
 * [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions)
+* [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 
 ### AngularJS
 
