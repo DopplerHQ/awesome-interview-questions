@@ -297,7 +297,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [11 Essential Ruby Interview Questions from top 3% developers company](http://www.toptal.com/ruby/interview-questions)
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
-* [A list of questions about Ruby programming you can use to quiz yourself](https://github.com/gregstallings/ruby-trivia)
+* [A list of questions about Ruby programming you can use to quiz yourself](https://github.com/undr/ruby-trivia)
 * [The Art of Ruby Technical Interview](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
 * [Interview Cake Ruby Interview Questions](https://www.interviewcake.com/ruby-interview-questions)
 
