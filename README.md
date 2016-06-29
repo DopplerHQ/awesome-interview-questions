@@ -138,6 +138,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Clojure Interview Questions for experienced devs](http://ita2zguide.blogspot.com.by/p/cc.html)
 * [Coding exercises in Clojure, handy practice for technical interview questions](https://github.com/dpetrovics/coding-exercises)
 * [Experience and questions from Clojure developer interview collected by Reddit users](https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/)
+* [Interview cake Clojure solutions](https://github.com/DerekCuevas/interview-cake-clj)
 
 ### CoffeeScript
 
