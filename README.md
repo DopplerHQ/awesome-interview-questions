@@ -362,7 +362,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Oracle
 
-* [General Oracle Interview Questions & Answers](http://www.coolinterview.com/type.asp?iType=57](http://www.coolinterview.com/type.asp?iType=57))
+* [General Oracle Interview Questions & Answers](http://www.coolinterview.com/type.asp?iType=57)
 
 ### Postgres
 
