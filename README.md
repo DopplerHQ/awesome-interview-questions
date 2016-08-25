@@ -197,6 +197,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [All you need to know about iOS technical interview including some tips for preparing, questions and some coding exercises](http://www.raywenderlich.com/53962/ios-interview-questions)
 * [Interview Questions for iOS and Mac Developers from the CEO of Black Pixel](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
 * [iOS Interview Questions and Answers including such topics as Development Basics, App states and multitasking, App states, Core app objects](http://www.geekinterview.com/Interview-Questions/iOS)
+* [iOS Interview Questions For Senior Developers](https://www.codementor.io/ios/tutorial/ios-interview-questions-for-senior-developers)
+
 
 ### Java
 
@@ -265,6 +267,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Basic PHP interview questions](https://github.com/developerquestions/php-questions)
 * [PHP interview questions and answers for freshers](http://phpinterviewquestions.co.in/)
 * [Top 100 PHP Interview Questions & Answers from CareerGuru](http://career.guru99.com/top-100-php-interview-questions-answers/)
+* [25 PHP Interview Questions](https://www.codementor.io/php/tutorial/php-interview-questions-sample-answers)
 
 ### Python
 
@@ -286,6 +289,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [A list of common questions with answers ask during interview of ruby on rails job](https://github.com/rishiip/ruby-on-rails-interview-questions)
 * [Ruby And Ruby On Rails interview Q&A](http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers)
 * [Some of the most frequently asked Ruby on Rails questions and how to answer them confidently](https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/)
+* [11 Ruby on Rails Interview Practice Questions](https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions)
 
 ### ReactJS
 
@@ -293,6 +297,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [This is a first in the series of interview questions related with ReactJS](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-1)
 * [This quiz intends to test your understanding around ReactJS fundamentals (Set 3)](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
 * [This quiz intends to test your understanding around ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
+* [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 
 ### Ruby
 
