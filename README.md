@@ -19,7 +19,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [C♯](#c-2)
   - [.NET](#net)
   - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
   - [CSS](#css)
   - [Django](#django)
   - [EmberJS](#emberjs)
@@ -138,10 +137,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Coding exercises in Clojure, handy practice for technical interview questions](https://github.com/dpetrovics/coding-exercises)
 * [Experience and questions from Clojure developer interview collected by Reddit users](https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/)
 * [Interview cake Clojure solutions](https://github.com/DerekCuevas/interview-cake-clj)
-
-### CoffeeScript
-
-* [Top 25 CoffeeScript Interview Questions for Freshers and Beginners](http://career.guru99.com/top-25-coffeescript-interview-questions/)
 
 ### CSS
 
