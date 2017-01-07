@@ -294,6 +294,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [This quiz intends to test your understanding around ReactJS fundamentals (Set 3)](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
 * [This quiz intends to test your understanding around ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
+* [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 
 ### Ruby
 
