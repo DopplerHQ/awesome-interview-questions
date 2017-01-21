@@ -6,7 +6,7 @@
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
-**Check out my [blog](https://medium.com/@MaximAbramchuk) or say *hi* on [Twitter](https://twitter.com/maximabramchuck).**
+**Check out my [channel](https://t.me/botcube) or [blog](https://medium.com/@MaximAbramchuk).**
 
 ### Table of Contents
 
