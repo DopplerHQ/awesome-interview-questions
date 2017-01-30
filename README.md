@@ -175,7 +175,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [12 Essential HTML5 Interview Questions from top 3% developers company](http://www.toptal.com/html5/interview-questions)
 * [35 Helpful HTML & HTML5 Interview Questions & Answers](http://www.skilledup.com/articles/html-html5-interview-questions-answers)
 * [40 important HTML 5 Interview questions with answers](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
-* [40 important HTML 5 Interview questions with answers](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
 * [HTML interview questions and answers for freshers and experienced candidates Also find HTML online practice tests to fight written tests and certification exams on HTML](http://www.careerride.com/Interview-Questions-HTML.aspx)
 * [Top 50 HTML Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-50-html-interview-questions/)
 * [Common HTML interview questions for freshers](http://www.javatpoint.com/html-interview-questions)
