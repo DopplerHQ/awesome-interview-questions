@@ -278,7 +278,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Ruby on Rails
 
-* [10 (best) Ruby (and Rails) interview questions (and answers)](http://legeek.org/10-best-ruby-and-rails-interview-questions-and-answers/)
+* [10 (best) Ruby (and Rails) interview questions (and answers)](http://web.archive.org/web/20160505234502/http://legeek.org/10-best-ruby-and-rails-interview-questions-and-answers)
 * [20 Ruby on Rails interview questions and answers from CareerRide.com](http://www.careerride.com/ruby-on-rails-interview-questions.aspx)
 * [8 Essential Ruby on Rails Interview Questions from top 3% developers company](http://www.toptal.com/ruby-on-rails/interview-questions)
 * [A list of common questions with answers ask during interview of ruby on rails job](https://github.com/rishiip/ruby-on-rails-interview-questions)
@@ -374,7 +374,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [13 PostgreSQL Interview Q&A](http://www.dotnetfunda.com/interviews/cat/208/postgresql)
 * [Frequently Asked Basic PostgreSQL Interview Questions and Answers](http://nazafbtemplate.blogspot.com.by/2014/06/frequently-asked-basic-postgresql.html)
 * [PostgreSQL Interview Preparation Guide](http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_](http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_))
-* [PostgreSQL Interview Q&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411](http://www.coolinterview.com/type.asp?iType=411))
+* [PostgreSQL Interview Q&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411)
 
 ### SQL
 
