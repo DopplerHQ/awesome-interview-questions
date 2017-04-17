@@ -75,7 +75,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [50 android interview questions & answers](http://career.guru99.com/50-android-interview-questions-answers/).
 * [A couple of Android questions posted by Quora users](https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer)
 * [A great list of Android interview questions covering all the aspects of this career](http://www.tutorialspoint.com/android/android_interview_questions.htm)
-* [Android interview questions and answers for freshers and experienced candidates. Also there you can find Android online practice tests to fight written tests and certification exams on Android](http://www.careerride.com/android-interview-questions.aspx)
 * [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions)
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 
@@ -433,6 +432,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
+* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 
 ## Data structures
 
