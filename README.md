@@ -2,6 +2,10 @@
 
 > A curated list of lists of technical interview questions.
 
+[![Practice Interview](https://img.shields.io/badge/cta-Amazon%20Engineer-green.svg?label=Practice%20Random%20Question%20With)](https://www.candidacy.io/?utm_source=MaximAbramchuck)
+[![Practice Interview](https://img.shields.io/badge/cta-Microsoft%20Engineer-blue.svg?label=Practice%20Random%20Question%20With)](https://www.candidacy.io/?utm_source=MaximAbramchuck)
+[![Practice Interview](https://img.shields.io/badge/cta-Google%20Engineer-red.svg?label=Practice%20Random%20Question%20With)](https://www.candidacy.io/?utm_source=MaximAbramchuck)
+
 [What makes for an awesome list?](awesome.md)
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
