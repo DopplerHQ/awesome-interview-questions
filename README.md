@@ -197,6 +197,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Interview Questions for iOS and Mac Developers from the CEO of Black Pixel](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
 * [iOS Interview Questions and Answers including such topics as Development Basics, App states and multitasking, App states, Core app objects](http://www.geekinterview.com/Interview-Questions/iOS)
 * [iOS Interview Questions For Senior Developers](https://www.codementor.io/ios/tutorial/ios-interview-questions-for-senior-developers)
+* [50 iOS Interview Questions And Answers 1](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a)
+* [50 iOS Interview Questions And Answers Part 2](https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-2-45f952230b9f)
+* [50 iOS Interview Questions And Answers Part 3](https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d)
 
 
 ### Java
