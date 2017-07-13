@@ -200,7 +200,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [50 iOS Interview Questions And Answers 1](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a)
 * [50 iOS Interview Questions And Answers Part 2](https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-2-45f952230b9f)
 * [50 iOS Interview Questions And Answers Part 3](https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d)
-
+* [50 iOS Interview Questions And Answers Part 4](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-4-6f26b26341a)
+* [10 iOS interview questions and answers](https://www.upwork.com/i/interview-questions/ios/)
+* [iOS Developer and Designer Interview Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#tech)
+* [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
 
 ### Java
 
