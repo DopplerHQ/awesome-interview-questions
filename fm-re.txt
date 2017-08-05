@@ -1,0 +1,16 @@
+Unit summary as stated above
+
+Unit objectives as stated above
+
+
+Before you start: make a backup copy of your files in case you need to refer back to the original version.
+1. Open the vars file and save it as a .mif file.
+2. Open the .mif file with a text editor. 
+3. Search and replace all occurrences of <FSize  11.0 pt> with <FSize  10.0 pt>.
+4. Save the .mif file.
+5. Open the .mif file in FrameMaker and save it back as an .fm file, overwriting the existing one.
+6. Keep the updated vars.fm file open.  
+7. Open a .book file. Select all documents in it. 
+8. Click File > Import > Formats. Import from the vars file. Clear all options except for Paragraph Formats. Click Import.
+Review your files to see if the fonts are changed as expected.
+
