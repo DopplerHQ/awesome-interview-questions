@@ -43,6 +43,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
+  - [Wordpress](#wordpress)
 - [Database technologies](#database-technologies)
   - [Cassandra](#cassandra)
   - [Microsoft Access](#microsoft-access)
@@ -342,7 +343,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Wordpress
 * [Top 45 Wordpress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
-
 
 ## Database technologies
 
