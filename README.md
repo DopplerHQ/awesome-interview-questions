@@ -43,6 +43,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
+  - [Wordpress](#wordpress)
 - [Database technologies](#database-technologies)
   - [Cassandra](#cassandra)
   - [Microsoft Access](#microsoft-access)
@@ -104,6 +105,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
+* [25 Fundamental C++ Interview Questions](https://pangara.com/blog/cplusplus-interview-questions)
 
 ### C
 
@@ -338,6 +340,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Swift Interview Questions and Answers for both freshers and beginners](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
 * [Swift Programming Language Interview Questions And Answers from mycodetips.com](http://mycodetips.com/swift-ios/swift-programming-language-interview-questions-answers-987.html)
 * [Your top 10 Swift questions answered](http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html)
+
+### Wordpress
+* [Top 45 Wordpress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
 
 ## Database technologies
 
