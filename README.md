@@ -183,6 +183,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Ionic
 
 * [23 Beginner Level Ionic Framework Questions](http://www.codeandyou.com/p/ionic-interview-questions.html)
+* [11 Essential Ionic Interview Questions](https://www.toptal.com/ionic/interview-questions)
 
 ### iOS
 
