@@ -67,6 +67,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Security](#security)
 - [Data Science](#data-science)
 
+- [Online Interview Practice Platforms](#online-interview-practice-platforms)
+
 ## Programming Languages/Frameworks/Platforms
 
 ### Android
@@ -467,6 +469,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+
+## Online Interview Practice Platforms
+* [Pramp](https://www.pramp.com/ref/gt2)
 
 ### License
 
