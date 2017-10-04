@@ -236,6 +236,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer))
+* [JavaScript Questions and Answers](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md#js-questions)
 
 ### KnockoutJS
 
