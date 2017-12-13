@@ -326,6 +326,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [A list of questions about Ruby programming you can use to quiz yourself](https://github.com/undr/ruby-trivia)
 * [The Art of Ruby Technical Interview](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
 * [Interview Cake Ruby Interview Questions](https://www.interviewcake.com/ruby-interview-questions)
+* [Frequently Asked Ruby Interview Questions](https://www.javatpoint.com/ruby-interview-questions)
 
 ### Sass
 
