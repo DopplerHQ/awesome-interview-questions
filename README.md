@@ -352,7 +352,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Swift
 
-* [5 Swift questions for your iOS job interview](http://www.skilledup.com/articles/5-swift-questions-ios-job-interview)
 * [9 Essential Swift Interview Questions from top 3% developers company](http://www.toptal.com/swift/interview-questions)
 * [Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1](https://github.com/diwu/LeetCode-Solutions-in-Swift)
 * [Swift Interview Questions and Answers for both freshers and beginners](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
