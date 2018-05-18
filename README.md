@@ -116,6 +116,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [C Programming Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of C Programming](http://www.tutorialspoint.com/cprogramming/cprogramming_interview_questions.htm)
 * [First set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/)
 * [Second set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/)
+* [9 Essential C Interview Questions with answers](https://www.toptal.com/c/interview-questions)
 
 ### C♯
 
