@@ -145,7 +145,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### CSS
 
-* [25 helpful CSS interview questions and answers](http://www.skilledup.com/articles/25-css-interview-questions-answers)
 * [CSS interview questions and answers for freshers and experienced candidates Also there you can find CSS online practice tests to fight written tests and certification exams on CSS](http://www.careerride.com/Interview-Questions-CSS.aspx)
 * [Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
