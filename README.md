@@ -20,6 +20,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [.NET](#net)
   - [Clojure](#clojure)
   - [CSS](#css)
+  - [Cucumber](#cucumber)
   - [Django](#django)
   - [EmberJS](#emberjs)
   - [Erlang](#erlang)
@@ -150,6 +151,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [Top 50 CSS(Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
 * [CSS Questions and Answers](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/css-questions.md)
+
+### Cucumber
+
+* [Cucumber Web Application BDD Sample Interview Questions](https://ratedr05.wordpress.com/2017/09/22/cucumber-interview-questions/)
+* [Guide to building a simple Cucumber + Watir page object pattern framework](http://watir.com/simple-cucumber-watir-page-object-pattern-framework/)
 
 ### Django
 
