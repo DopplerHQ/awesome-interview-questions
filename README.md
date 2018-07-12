@@ -29,6 +29,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [iOS](#ios)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [jQuery](#jquery)
   - [Front-end build tools](#front-end-build-tools)
   - [KnockoutJS](#knockoutjs)
   - [Less](#less)
@@ -79,6 +80,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [A great list of Android interview questions covering all the aspects of this career](http://www.tutorialspoint.com/android/android_interview_questions.htm)
 * [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions)
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
+* [Android Interview Questions & How to Interview Candidates](https://pangara.com/blog/android-interview-questions)
 
 ### AngularJS
 
@@ -243,6 +245,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 * [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 
+### jQuery
+
+* [70 jQuery Interview Questions to Ace Your Next Interview](https://pangara.com/blog/70-jquery-interview-questions)
 
 ### Front-end build tools
 
@@ -288,6 +293,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [PHP interview questions and answers for freshers](http://phpinterviewquestions.co.in/)
 * [Top 100 PHP Interview Questions & Answers from CareerGuru](http://career.guru99.com/top-100-php-interview-questions-answers/)
 * [25 PHP Interview Questions](https://www.codementor.io/php/tutorial/php-interview-questions-sample-answers)
+* [26 Essential PHP Interview Questions for 2018](https://pangara.com/blog/php-interview-questions)
 
 ### Python
 
