@@ -13,6 +13,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
   - [Android](#android)
   - [AngularJS](#angularjs)
+  - [Angular](#angular)
   - [BackboneJS](#backbonejs)
   - [C++](#c)
   - [C](#c-1)
@@ -92,6 +93,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 * [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
+
+### Angular
+
+* [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/Yonet/Angular-Interview-Questions)
 
 ### BackboneJS
 
