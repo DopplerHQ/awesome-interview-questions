@@ -253,6 +253,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [JavaScript Questions and Answers](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md#js-questions)
 * [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 * [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Collection of common interview questions](https://github.com/30-seconds/30-seconds-of-interviews)
 
 ### jQuery
 
