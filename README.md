@@ -58,6 +58,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Postgres](#postgres)
   - [SQL](#sql)
   - [SQL Lite](#sql-lite)
+- [Caching technologies](#caching-technologies)
+  - [Memcached](#memcached)
 
 - [OS](#os)
   - [Linux](#linux)
@@ -436,6 +438,14 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### SQL Lite
 
 * [Top 20 SQL LITE  Interview Questions from Career Guru](http://career.guru99.com/top-20-sql-lite-interview-questions/)
+
+## Caching technologies
+
+
+### Memcached
+
+* [Memcached Interview Questions from Javapoint](https://www.javatpoint.com/memcached-interview-questions-and-answers)
+* [Memcached Interview Questions from Wisdomjobs](https://www.wisdomjobs.com/e-university/memcached-interview-questions.html)
 
 ## OS
 
