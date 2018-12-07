@@ -56,9 +56,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Neo4j](#neo4j)
   - [Oracle](#oracle)
   - [Postgres](#postgres)
-  - [Redis](#redis)
   - [SQL](#sql)
   - [SQL Lite](#sql-lite)
+- [Caching technologies](#caching-technologies)
+  - [Redis](#redis)
 
 - [OS](#os)
   - [Linux](#linux)
@@ -424,12 +425,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [PostgreSQL Interview Preparation Guide](http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_)
 * [PostgreSQL Interview Q&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411)
 
-### Redis
-
-* [Redis Interview Questions from Javapoint](https://www.javatpoint.com/redis-interview-questions-and-answers)
-* [Redis Interview Questions from Wisdomjobs](https://www.wisdomjobs.com/e-university/redis-interview-questions-answers.html)
-* [Redis Interview Questions from Career Guru](https://career.guru99.com/top-10-redis-interview-questions/)
-
 ### SQL
 
 * [10 Frequently asked SQL Query Interview Questions](http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
@@ -443,6 +438,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### SQL Lite
 
 * [Top 20 SQL LITE  Interview Questions from Career Guru](http://career.guru99.com/top-20-sql-lite-interview-questions/)
+
+## Caching technologies
+
+
+### Redis
+
+* [Redis Interview Questions from Javapoint](https://www.javatpoint.com/redis-interview-questions-and-answers)
+* [Redis Interview Questions from Wisdomjobs](https://www.wisdomjobs.com/e-university/redis-interview-questions-answers.html)
+* [Redis Interview Questions from Career Guru](https://career.guru99.com/top-10-redis-interview-questions/)
 
 ## OS
 
