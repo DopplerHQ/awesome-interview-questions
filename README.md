@@ -441,7 +441,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Linux
 
-* [10 Job Interview Questions for Linux System Administrators from Linux.com](https://www.linux.com/news/featured-blogs/200-libby-clark/842913-10-job-interview-questions-for-linux-sysadmins)
+* [10 Job Interview Questions for Linux System Administrators from Linux.com](https://www.linuxfoundation.org/blog/2015/07/10-job-interview-questions-for-linux-system-administrators/)
 * [10 Useful Random Linux Interview Questions and Answers](http://www.tecmint.com/useful-random-linux-interview-questions-and-answers/)
 * [11 Basic Linux Interview Questions and Answers](http://www.tecmint.com/basic-linux-interview-questions-and-answers/)
 * [11 Essential Linux Interview Questions from top 3% developers company](http://www.toptal.com/linux/interview-questions)
