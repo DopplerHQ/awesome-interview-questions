@@ -192,6 +192,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Interview Questions for iOS and Mac Developers from the CEO of Black Pixel](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
 * [iOS Interview Questions and Answers including such topics as Development Basics, App states and multitasking, App states, Core app objects](http://www.geekinterview.com/Interview-Questions/iOS)
 * [iOS Interview Questions For Senior Developers](https://www.codementor.io/ios/tutorial/ios-interview-questions-for-senior-developers)
+* [iOS Interview Questions For Begineers](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 
 
 ### Java
@@ -252,6 +253,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [Interview Qs for Objective-C and Swift](http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/)
 * [iOS/ObjC Interview Questions](http://andras.palfi.hu/iosobjc-interview-questions/)
+* [iOS Interview Questions For Begineers](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 
 ### PHP
 
