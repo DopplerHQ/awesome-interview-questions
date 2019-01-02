@@ -47,7 +47,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
-  - [Wordpress](#wordpress)
+  - [WordPress](#wordpress)
 - [Database technologies](#database-technologies)
   - [Cassandra](#cassandra)
   - [Microsoft Access](#microsoft-access)
@@ -376,8 +376,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Swift Programming Language Interview Questions And Answers from mycodetips.com](http://mycodetips.com/swift-ios/swift-programming-language-interview-questions-answers-987.html)
 * [Your top 10 Swift questions answered](http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html)
 
-### Wordpress
-* [Top 45 Wordpress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
+### WordPress
+* [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
 
 ## Database technologies
 
