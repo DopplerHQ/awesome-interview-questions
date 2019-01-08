@@ -316,6 +316,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Python Interview Questions from questionscompiled](http://www.questionscompiled.com/python-interview-questions.html)
 * [Top 25 Python Interview Questions from Career Guru](http://career.guru99.com/top-25-python-interview-questions/)
 * [Python Interview 10 questions from Corey Schafer](https://www.youtube.com/watch?v=DEwgZNC-KyE)
+* [Python interview questions. Part I. Junior](https://luminousmen.com/post/6)
+* [Python interview questions. Part II. Middle](https://luminousmen.com/post/7)
+* [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
 
 ### Ruby on Rails
 
