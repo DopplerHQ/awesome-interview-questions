@@ -59,6 +59,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [SQL](#sql)
   - [SQL Lite](#sql-lite)
 - [Caching technologies](#caching-technologies)
+  - [Memcached](#memcached)
   - [Redis](#redis)
 
 - [OS](#os)
@@ -449,6 +450,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Caching technologies
 
+### Memcached
+
+* [Memcached Interview Questions from Javapoint](https://www.javatpoint.com/memcached-interview-questions-and-answers)
+* [Memcached Interview Questions from Wisdomjobs](https://www.wisdomjobs.com/e-university/memcached-interview-questions.html)
 
 ### Redis
 
