@@ -58,6 +58,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Postgres](#postgres)
   - [SQL](#sql)
   - [SQL Lite](#sql-lite)
+- [Caching technologies](#caching-technologies)
+  - [Redis](#redis)
 
 - [OS](#os)
   - [Linux](#linux)
@@ -444,6 +446,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### SQL Lite
 
 * [Top 20 SQL LITE  Interview Questions from Career Guru](http://career.guru99.com/top-20-sql-lite-interview-questions/)
+
+## Caching technologies
+
+
+### Redis
+
+* [Redis Interview Questions from Javapoint](https://www.javatpoint.com/redis-interview-questions-and-answers)
+* [Redis Interview Questions from Wisdomjobs](https://www.wisdomjobs.com/e-university/redis-interview-questions-answers.html)
+* [Redis Interview Questions from Career Guru](https://career.guru99.com/top-10-redis-interview-questions/)
 
 ## OS
 
