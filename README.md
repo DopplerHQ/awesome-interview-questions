@@ -26,6 +26,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [EmberJS](#emberjs)
   - [Erlang](#erlang)
   - [Golang](#golang)
+  - [GraphQl](#graphql)
   - [HTML](#html)
   - [Ionic](#ionic)
   - [iOS](#ios)
@@ -191,6 +192,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Solutions for Elements of Programming Interviews problems written in Golang](https://github.com/mrekucci/epi)
 * [Solutions for some basic coding interview tasks written in Go](https://github.com/efischer19/golang_ctci)
 * [Top 20 GO Programming Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-20-go-programming-interview-questions/)
+
+### GraphQl
+
+* [8 GraphQl Interview Questions To Know](https://www.fullstack.cafe/blog/5-graphql-interview-questions-you-should-know)
+* [How to GraphQl - Common Questions](https://www.howtographql.com/advanced/5-common-questions/)
 
 ### HTML
 
