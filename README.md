@@ -97,6 +97,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Angular
 
 * [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/Yonet/Angular-Interview-Questions)
+* [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
 
 ### BackboneJS
 
