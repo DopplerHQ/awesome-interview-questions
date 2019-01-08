@@ -63,6 +63,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Linux](#linux)
   - [Windows](#windows)
 - [Algorithms](#algorithms)
+- [Blockchain](#blockchain)
 - [Coding exercises](#coding-exercises)
 - [Comprehensive lists](#comprehensive-lists)
 - [Design patterns](#design-patterns)
@@ -220,6 +221,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [10 iOS interview questions and answers](https://www.upwork.com/i/interview-questions/ios/)
 * [iOS Developer and Designer Interview Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#tech)
 * [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
+* [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 
 ### Java
 
@@ -294,6 +296,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [Interview Qs for Objective-C and Swift](http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/)
 * [iOS/ObjC Interview Questions](http://andras.palfi.hu/iosobjc-interview-questions/)
+* [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 
 ### PHP
 
@@ -470,6 +473,16 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 * [Top Algorithms Questions by Topics](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms/README.md)
+
+## Blockchain
+* [Top 55 Blockchain Interview Questions You Must Prepare In 2018](https://www.edureka.co/blog/interview-questions/blockchain-interview-questions/)
+* [Blockchain Interview Questions](https://mindmajix.com/blockchain-interview-questions)
+* [Top Blockchain Interview Questions](https://intellipaat.com/interview-question/blockchain-interview-questions/)
+* [Blockchain Developer Interview Questions and Answers](https://applicature.com/blog/blockchain-interview-questions)
+* [10 Essential Blockchain Interview Questions ](https://www.toptal.com/blockchain/interview-questions)
+* [Blockchain Interview Questions The Collection](https://medium.com/coinmonks/blockchain-interview-questions-the-collection-38de299ce44d)
+* [Top 30 Blockchain Interview Questions – For Freshers to Experienced](https://data-flair.training/blogs/blockchain-interview-questions/)
+* [Most Frequently Asked Blockchain Interview Questions](https://www.digitalvidya.com/blog/blockchain-interview-questions/)
 
 ## Coding exercises
 
