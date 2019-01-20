@@ -43,6 +43,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [ReactJS](#reactjs)
   - [Rails](#ruby-on-rails)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
