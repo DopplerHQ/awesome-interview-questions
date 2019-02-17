@@ -248,6 +248,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### JavaScript
 
+* [Practice common algorithms using JavaScript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [21 Essential JavaScript Interview Questions from best mentors all over the world](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
 * [37 Essential JavaScript Interview Questions from Toptal](http://www.toptal.com/javascript/interview-questions)
