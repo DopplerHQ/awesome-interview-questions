@@ -316,7 +316,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [100 PHP interview questions and answers from CareerRide.com](http://www.careerride.com/PHP-Interview-Questions.aspx)
 * [21 Essential PHP Interview Questions from Toptal](http://www.toptal.com/php/interview-questions)
 * [20 Common PHP Job Interview Questions and Answers](http://www.woodstitch.com/resources/php-interview-questions.php)
-* [Basic PHP interview questions](https://github.com/developerquestions/php-questions)
 * [PHP interview questions and answers for freshers](http://phpinterviewquestions.co.in/)
 * [Top 100 PHP Interview Questions & Answers from CareerGuru](http://career.guru99.com/top-100-php-interview-questions-answers/)
 * [25 PHP Interview Questions](https://www.codementor.io/php/tutorial/php-interview-questions-sample-answers)
