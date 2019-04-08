@@ -49,7 +49,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
-  - [WordPress](#wordpress)
+  - [Wordpress](#wordpress)
+  - [TypeScript](#typescript)
+
 - [Database technologies](#database-technologies)
   - [Cassandra](#cassandra)
   - [Microsoft Access](#microsoft-access)
@@ -405,6 +407,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
+
+### TypeScript
+
+* [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
 
 ## Database technologies
 
