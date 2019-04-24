@@ -378,6 +378,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Sass
 
 * [Top 17 Sass Interview Questions from Career Guru](http://career.guru99.com/top-17-sass-interview-questions/)
+* [Top 10 Sass Interview Questions from educba](https://www.educba.com/sass-interview-questions/)
 
 ### Scala
 
