@@ -407,8 +407,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Swift
 
 * [10 Essential Swift Interview Questions from Toptal](http://www.toptal.com/swift/interview-questions)
-* [Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1](https://github.com/diwu/LeetCode-Solutions-in-Swift)
-* [Swift Interview Questions and Answers for both freshers and beginners](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
+* [Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 5](https://github.com/diwu/LeetCode-Solutions-in-Swift)
+* [Swift Interview Questions and Answers](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 * [Swift Programming Language Interview Questions And Answers from mycodetips.com](http://mycodetips.com/swift-ios/swift-programming-language-interview-questions-answers-987.html)
 * [Your top 10 Swift questions answered](http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html)
 
