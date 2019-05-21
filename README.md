@@ -474,7 +474,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [General Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-general-questions/)
 * [Schema, Questions & Solutions for SQL Exercising](https://github.com/XD-DENG/SQL-exercise)
 * [SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL](http://www.tutorialspoint.com/sql/sql_interview_questions.htm)
-* [SQL Interview Questions CHEAT SHEET] (https://www.interviewbit.com/sql-interview-questions/)
+* [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
 ### SQL Lite
 
