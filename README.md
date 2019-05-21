@@ -181,10 +181,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Some Django basic interview questions to establish the basic level of the candidates](http://www.ilian.io/django-interview-questions/)
 * [Top 16 Django Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-16-django-interview-questions/)
 
-## Design Pattern
-
-* [Why singleton design pattern is most popular, but not the most effective one](https://tipsnguts.com/why-singleton-design-pattern-is-most-popular-but-not-the-most-effective-one/)
-
 ### Docker
 
 * [Docker Interview Questions](https://mindmajix.com/docker-interview-questions)
@@ -558,6 +554,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+* [Why singleton design pattern is most popular, but not the most effective one](https://tipsnguts.com/why-singleton-design-pattern-is-most-popular-but-not-the-most-effective-one/)
 
 ## Data structures
 
