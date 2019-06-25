@@ -346,6 +346,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Python interview questions. Part I. Junior](https://luminousmen.com/post/6)
 * [Python interview questions. Part II. Middle](https://luminousmen.com/post/7)
 * [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
+* [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 
 ### Ruby on Rails
 
