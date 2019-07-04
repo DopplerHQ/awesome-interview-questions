@@ -138,7 +138,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Second set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/)
 * [9 Essential C Interview Questions with answers](https://www.toptal.com/c/interview-questions)
 
-### C♯
+### C#
 
 * [15 Essential C# Interview Question from Toptal](http://www.toptal.com/c-sharp/interview-questions)
 * [C# interview questions from dotnetfunda.com](http://www.dotnetfunda.com/interviews/cat/6/csharp)
