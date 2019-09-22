@@ -102,6 +102,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 * [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
+* [100 AngularJS Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-angularjs-interview-questions-answers/)
 
 ### Angular
 
@@ -144,6 +145,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [C# interview questions from dotnetfunda.com](http://www.dotnetfunda.com/interviews/cat/6/csharp)
 * [Top 100 C# Interview Questions and Answers](http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers)
 * [Top 50 C# Interview Questions & Answers](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/)
+* [50 C# Coding Interview Questions and Answers](https://www.techbeamers.com/csharp-coding-interview-questions-developers/)
+* [20 C# OOPS Interview Questions and Answers](https://www.techbeamers.com/csharp-oops-interview-questions-answers/)
 
 ### .NET
 
@@ -218,6 +221,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 50 HTML Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-50-html-interview-questions/)
 * [Common HTML interview questions for freshers](http://www.javatpoint.com/html-interview-questions)
 * [HTML Questions and Answers](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/html-questions.md)
+* [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
 
 ### Ionic
 
@@ -257,6 +261,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 25 Most Frequently Asked Interview Core Java Interview Questions And Answers](http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html)
 * [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
 * [Interview Cake Java Interview Questions](https://www.interviewcake.com/java-interview-questions)
+* [Java Interview Questions & Quizzes](https://www.techbeamers.com/java-interview-questions/)
 
 ### JavaScript
 
@@ -279,6 +284,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer))
 * [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 * [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/)
 
 ### jQuery
 
@@ -312,7 +318,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Node.JS Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Node.JS](http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm)
 * [There are two sides of the table: you either want to hire Nodejs developers or you want to get hired as a Nodejs developer This list helps you navigate a bit in this space, giving you some questions to ask, and a list of questions you should know the answer to](https://blog.risingstack.com/node-js-interview-questions/)
 * [Top 25 Nodejs Interview Questions & Answers from Career Guru](http://career.guru99.com/top-25-interview-questions-on-node-js/)
-* [Top 30 Node.Js Interview Questions With Answers](http://www.techbeamers.com/top-30-node-js-interview-questions-answers/)
+* [Top 30 Node.Js Interview Questions With Answers](https://www.techbeamers.com/top-30-node-js-interview-questions-answers/)
 
 ### Objective-C
 
@@ -330,6 +336,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [25 PHP Interview Questions](https://www.codementor.io/php/tutorial/php-interview-questions-sample-answers)
 * [26 Essential PHP Interview Questions for 2018](https://pangara.com/blog/php-interview-questions)
 * [Cracking PHP Interviews Questions ebook 300+ Q&A](https://bootsity.com/books)
+* [PHP Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-php-interview-questions-answers/)
 
 ### Python
 
@@ -347,6 +354,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Python interview questions. Part II. Middle](https://luminousmen.com/post/7)
 * [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
 * [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
+* [100 Python Interview Questions - Quick Refresher](https://www.techbeamers.com/python-interview-questions-programmers/)
 
 ### Ruby on Rails
 
@@ -507,6 +515,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 50 Linux Interview Questions from Career Guru](http://career.guru99.com/top-50-linux-interview-questions/)
 * [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
 * [278 Test Questions and Answers for \*nix System Administrators](https://github.com/trimstray/test-your-sysadmin-skills)
+* [Linux Interview Questions - Quick Refresher](https://www.techbeamers.com/essential-linux-questions-answers/)
 
 ### Windows
 
