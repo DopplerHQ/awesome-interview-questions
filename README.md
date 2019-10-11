@@ -430,6 +430,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### TypeScript
 
 * [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
+* [Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019](https://www.positronx.io/typescript-interview-questions-answers-2109/)
 
 ## Database technologies
 
