@@ -556,7 +556,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
-* [Answers to Front End Developer Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
+* [Answers to Front End Developer Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/README.md)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
 * [An Annotated List of Frontend Developer Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-frontend-candidates/)
 * [An Annotated List of Backend Developer Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-backend-candidates/)
