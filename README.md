@@ -92,6 +92,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions)
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 * [Android Interview Questions & How to Interview Candidates](https://pangara.com/blog/android-interview-questions)
+* [RocketSkill App Android Interview Questions](https://github.com/mindash/android-structured-interview)
 
 ### AngularJS
 
@@ -247,6 +248,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
 * [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 * [Babylon iOS Interview Questions](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
+* [RocketSkill App iOS Interview Questions](https://github.com/mindash/iOS-structured-interview)
 
 ### Java
 
