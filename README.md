@@ -295,6 +295,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### jQuery
 
 * [70 jQuery Interview Questions to Ace Your Next Interview](https://pangara.com/blog/70-jquery-interview-questions)
+* [Top 50 jquery interview questions](https://career.guru99.com/top-50-jquery-interview-questions/)
+* [17 Essential jQuery Interview Questions From Toptal](https://www.toptal.com/jquery/interview-questions)
+
 
 ### Front-end build tools
 
