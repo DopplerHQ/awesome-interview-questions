@@ -578,7 +578,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+* [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+* [Design Pattens implemented in DotNet](https://www.dofactory.com/net/design-patterns)
 
 ## Data structures
 
