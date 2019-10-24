@@ -130,6 +130,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
 * [25 Fundamental C++ Interview Questions](https://pangara.com/blog/cplusplus-interview-questions)
+* [Standard Data Structures and Algorithms Questions](https://www.techiedelight.com/list-of-problems/)
 
 ### C
 
