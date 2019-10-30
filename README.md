@@ -601,6 +601,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 * [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
+* [Top 45 Data Science Interview Questions You Must Prepare In 2019](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+* [Top 30 data science interview questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
+* [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
+* [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 
 ### License
 
