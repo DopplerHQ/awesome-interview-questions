@@ -434,6 +434,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Swift Interview Questions and Answers](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 * [Swift Programming Language Interview Questions And Answers from mycodetips.com](http://mycodetips.com/swift-ios/swift-programming-language-interview-questions-answers-987.html)
 * [Your top 10 Swift questions answered](http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html)
+* [Swift interview questions and answers on Swift 5](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
