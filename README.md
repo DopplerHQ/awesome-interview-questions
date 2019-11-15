@@ -536,7 +536,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Windows Admin Interview Questions & Answers](http://www.01world.in/p/windows.html)
 
 ## Algorithms
-
+* [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
 * [A great list of Java interview questions](http://java2novice.com/java-interview-programs/)
 * [Algorithms playground for common interview questions written in Ruby](https://github.com/sagivo/algorithms)
 * [EKAlgorithms contains some well known CS algorithms & data structures](https://github.com/EvgenyKarkan/EKAlgorithms)
