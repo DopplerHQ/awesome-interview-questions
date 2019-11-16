@@ -437,6 +437,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
+* [10 Essential WordPress Interview Questions](https://www.toptal.com/wordpress/interview-questions)
 
 ### TypeScript
 
