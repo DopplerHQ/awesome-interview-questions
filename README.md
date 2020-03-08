@@ -570,7 +570,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top Blockchain Interview Questions](https://intellipaat.com/interview-question/blockchain-interview-questions/)
 * [Blockchain Developer Interview Questions and Answers](https://applicature.com/blog/blockchain-interview-questions)
 * [10 Essential Blockchain Interview Questions ](https://www.toptal.com/blockchain/interview-questions)
-* [Blockchain Interview Questions The Collection](https://medium.com/coinmonks/blockchain-interview-questions-the-collection-38de299ce44d)
 * [Top 30 Blockchain Interview Questions – For Freshers to Experienced](https://data-flair.training/blogs/blockchain-interview-questions/)
 * [Most Frequently Asked Blockchain Interview Questions](https://www.digitalvidya.com/blog/blockchain-interview-questions/)
 
