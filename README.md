@@ -23,6 +23,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 	</p>
 </div>
 
+---
+
 <div align="center">
     <p>
         <a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=awint">
