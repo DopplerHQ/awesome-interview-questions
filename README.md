@@ -596,6 +596,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges)
 * [Interview questions solved in python](https://github.com/roseperrone/interview-questions)
 * [7 Swift Coding Challenges to Practice Your Skills](https://www.makeuseof.com/tag/swift-coding-challenges/)
+* [Conversational Software Engineer Quiz to Practice Fundamentals](https://www.adaface.com/software-engineer-quiz)
 
 ## Comprehensive lists
 
