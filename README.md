@@ -354,7 +354,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 18 Lisp Interview Questions from Career Guru](http://career.guru99.com/top-18-lisp-interview-questions/)
 
 ### NodeJS
-
+* [latest Node.js Interview Questions](https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md)
 * [25 Essential Node.js Interview Questions from Adeva](https://adevait.com/nodejs/interview-questions) 
 * [8 Essential Nodejs Interview Questions from Toptal](http://www.toptal.com/nodejs/interview-questions)
 * [Node.JS Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Node.JS](http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm)
