@@ -283,6 +283,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 * [Babylon iOS Interview Questions](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
 * [RocketSkill App iOS Interview Questions](https://github.com/mindash/iOS-structured-interview)
+* [iOS Static vs Dynamic Dispatch](https://medium.com/flawless-app-stories/static-vs-dynamic-dispatch-in-swift-a-decisive-choice-cece1e872d)
 
 ### Java
 
@@ -468,6 +469,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Swift Programming Language Interview Questions And Answers from mycodetips.com](http://mycodetips.com/swift-ios/swift-programming-language-interview-questions-answers-987.html)
 * [Your top 10 Swift questions answered](http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html)
 * [Swift interview questions and answers on Swift 5 by Raywenderlich](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
+* [Dynamic keyword in Swift](https://cocoacasts.com/what-does-the-dynamic-keyword-mean-in-swift-3)
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
