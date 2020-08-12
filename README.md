@@ -127,6 +127,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 * [Android Interview Questions & How to Interview Candidates](https://pangara.com/blog/android-interview-questions)
 * [RocketSkill App Android Interview Questions](https://github.com/mindash/android-structured-interview)
+* [Android cheat sheet: Coding program, Data structure, Android and Java interview questions with answers and categorized by topics](https://github.com/anitaa1990/Android-Cheat-sheet)
+* [Android Interview Questions And Answers for experienced and fresher level developer](https://www.andreasschrade.com/2017/02/23/android-interview-questions/)
+* [Android Interview Questions for Senior Android Developer](https://github.com/mohsenoid/Android-Interview-Questions)
+
 
 ### AngularJS
 
