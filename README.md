@@ -297,6 +297,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 10 Tricky Java interview questions and Answers](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html)
 * [Top 25 Most Frequently Asked Interview Core Java Interview Questions And Answers](http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html)
 * [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
+* [Top 50 Spring Interview Questions You Must Prepare In 2020](https://www.edureka.co/blog/interview-questions/spring-interview-questions/)
+* [Spring Interview Questions And Answers](https://www.journaldev.com/2696/spring-interview-questions-and-answers)
 * [Interview Cake Java Interview Questions](https://www.interviewcake.com/java-interview-questions)
 * [Java Interview Questions & Quizzes](https://www.techbeamers.com/java-interview-questions/)
 
