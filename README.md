@@ -144,7 +144,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/Yonet/Angular-Interview-Questions)
 * [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
 * [List of 300 Angular Interview Questions and Answers](https://github.com/sudheerj/angular-interview-questions)
-
+* [Angular Interview Questions (2020)](https://www.interviewbit.com/angular-interview-questions/)
 
 ### BackboneJS
 
@@ -324,6 +324,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/)
 * [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
+* [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
 
 ### jQuery
 
