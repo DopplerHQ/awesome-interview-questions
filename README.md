@@ -366,7 +366,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Objective-C
 
 * [Interview Qs for Objective-C and Swift](http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/)
-* [iOS/ObjC Interview Questions](http://andras.palfi.hu/iosobjc-interview-questions/)
 * [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 
 ### PHP
