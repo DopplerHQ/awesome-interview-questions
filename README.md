@@ -325,6 +325,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/)
 * [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
 * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
+* [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 
 ### jQuery
 
