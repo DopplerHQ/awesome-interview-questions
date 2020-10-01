@@ -399,6 +399,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
 * [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 * [100 Python Interview Questions - Quick Refresher](https://www.techbeamers.com/python-interview-questions-programmers/)
+* [Top 100 Python Interview Questions from Edureka (2020)](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
 
 ### Ruby on Rails
 
