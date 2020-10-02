@@ -261,6 +261,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [23 Beginner Level Ionic Framework Questions](http://www.codeandyou.com/p/ionic-interview-questions.html)
 * [12 Essential Ionic Interview Questions](https://www.toptal.com/ionic/interview-questions)
+* [45 Ionic Interview Questions](https://www.javatpoint.com/ionic-interview-questions)
+* [Most Asked Ionic Interview Questions](https://www.maheshbhusanoor.com/article/ionic-interview-questions-answers.html)
 
 ### iOS
 
