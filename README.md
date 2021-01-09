@@ -136,6 +136,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### AngularJS
 
 * [12 Essential AngularJS Interview Questions from Toptal](http://www.toptal.com/angular-js/interview-questions)
+* [Top AngularJS Interview Questions and Answers](https://www.gyansetu.in/angular-js-interview-question-answers/)
 * [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass](https://github.com/gdi2290/ngExam)
 * [29 AngularJS Interview Questions – Can You Answer Them All? Great Article from Codementor](https://www.codementor.io/angularjs/tutorial/angularjs-interview-questions-sample-answers)
 * [AngularJS interview questions and answers for experienced developers](http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html)
@@ -404,6 +405,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
 * [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 * [100 Python Interview Questions - Quick Refresher](https://www.techbeamers.com/python-interview-questions-programmers/)
+
 
 ### Ruby on Rails
 
