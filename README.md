@@ -300,6 +300,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Interview Cake Java Interview Questions](https://www.interviewcake.com/java-interview-questions)
 * [Java Interview Questions & Quizzes](https://www.techbeamers.com/java-interview-questions/)
 * [Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
+* [Java Collections Questions](https://www.edureka.co/blog/interview-questions/java-collections-interview-questions/)
 
 ### JavaScript
 
