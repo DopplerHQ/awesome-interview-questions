@@ -6,41 +6,6 @@
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
----
-
-<div align="center">
-	<p>
-		<a href="https://triplebyte.com/a/TfjWb6Y/d">
-			<b>Looking for a job?</b>
-			<br>
-			No resume needed. Just prove you can code.
-			<br>
-			<div>
-				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
-			</div>
-		</a>
-		<sub><i>Clicking this helps fund the Awesome project</i></sub>
-	</p>
-</div>
-
----
-
-<div align="center">
-    <p>
-        <a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=awint">
-            <b>Having Tech Interview?</b>
-            <br> 3600 Tech Interview Questions. <b>Answered</b>.
-            <br>
-            <div>
-                <img src="https://user-images.githubusercontent.com/13550565/76382460-cc784d80-6393-11ea-8837-2b89265ac853.png" width="260" alt="FullStack.Cafe">
-            </div>
-        </a>
-        <sub><i>Proudly supporting the Awesome project</i></sub>
-    </p>
-</div>
-
----
-
 ### Table of Contents
 
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
