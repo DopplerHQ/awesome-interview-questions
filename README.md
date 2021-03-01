@@ -16,9 +16,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 			</div>	
       <br>
 			<b>Secrets management, for developers</b>	
-			<br>	
-			  Stop struggling with scattered environment variables, hacking together home-brewed tools, and avoiding access controls. Keep your team and servers in sync with Doppler.
+			<div>Stop struggling with scattered environment variables, hacking together home-brewed tools,</div>
 			<br>
+			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
 		</a>	
 	</p>	
 </div>	
