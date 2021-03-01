@@ -6,6 +6,26 @@
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
+---	
+
+<div align="center">	
+	<p>	
+		<a href="https://doppler.com">	
+      <div>	
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
+			</div>	
+      <br>
+			<b>Secrets management, for developers</b>	
+			<br>	
+			  Stop struggling with scattered environment variables, hacking together home-brewed tools, and avoiding access controls. Keep your team and servers in sync with Doppler.
+			<br>
+		</a>	
+	</p>	
+</div>	
+
+---
+
+
 ### Table of Contents
 
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
