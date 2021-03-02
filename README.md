@@ -452,7 +452,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Swift interview questions and answers on Swift 5 by Raywenderlich](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 
 ### WordPress
-* [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
+* [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)
 * [10 Essential WordPress Interview Questions](https://www.toptal.com/wordpress/interview-questions)
 
 ### TypeScript
