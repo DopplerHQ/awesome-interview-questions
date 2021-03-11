@@ -5,7 +5,7 @@
 				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
 			</div>	
       <br>
-			<b>All your ENV variables, in one place</b>	
+			<b>All your environment variables, in one place</b>	
 			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
 			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
 			</br>
