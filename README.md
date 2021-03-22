@@ -370,7 +370,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Python
 
 * [26 Essential Python Interview Questions from Adeva](https://adevait.com/python/interview-questions)
-* [50 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
+* [20 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
 * [11 Essential Python Interview Questions from Toptal](http://www.toptal.com/python/interview-questions)
 * [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions)
 * [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
