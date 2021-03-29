@@ -152,6 +152,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [First set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/)
 * [Second set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/)
 * [9 Essential C Interview Questions with answers](https://www.toptal.com/c/interview-questions)
+* [Top C Interview Questions and Answers](https://www.interviewbit.com/c-interview-questions/)
 
 ### C#
 
@@ -161,6 +162,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 50 C# Interview Questions & Answers](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/)
 * [50 C# Coding Interview Questions and Answers](https://www.techbeamers.com/csharp-coding-interview-questions-developers/)
 * [20 C# OOPS Interview Questions and Answers](https://www.techbeamers.com/csharp-oops-interview-questions-answers/)
+* [30+ C# Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
 
 ### .NET
 
@@ -205,6 +207,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top Docker Interview Questions And Answers](https://intellipaat.com/interview-question/docker-interview-questions/)
 * [DOCKER (SOFTWARE) INTERVIEW QUESTIONS & ANSWERS](https://www.wisdomjobs.com/e-university/docker-software-interview-questions.html)
 * [30 Docker Interview Questions and Answers in 2019](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
+* [Docker Interview Questions & Answers](https://www.interviewbit.com/docker-interview-questions/)
 
 ### EmberJS
 
@@ -236,6 +239,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Common HTML interview questions for freshers](http://www.javatpoint.com/html-interview-questions)
 * [HTML Questions and Answers](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/html-questions.md)
 * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
+* [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
 
 ### Ionic
 
@@ -347,6 +351,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions/)
 * [Top 25 Nodejs Interview Questions & Answers from Career Guru](http://career.guru99.com/top-25-interview-questions-on-node-js/)
 * [Top 30 Node.Js Interview Questions With Answers](https://www.techbeamers.com/top-30-node-js-interview-questions-answers/)
+* [Top Nodejs Interview Questions & Answers](https://www.interviewbit.com/node-js-interview-questions/)
 
 ### Objective-C
 
