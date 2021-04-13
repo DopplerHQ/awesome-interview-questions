@@ -314,6 +314,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
 * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
 * [JavaScript Modern Interview Code Challenges 2021](https://github.com/sadanandpai/javascript-code-challenges)
+* [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 
 ### jQuery
 
