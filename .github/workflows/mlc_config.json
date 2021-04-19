@@ -1,0 +1,44 @@
+{
+    "ignorePatterns": [
+        {
+            "pattern": "https://adevait.com/android/interview-questions"
+        },
+        {
+            "pattern": "https://www.fullstack.cafe/blog/docker-interview-questions-and-answers"
+        },
+        {
+            "pattern": "https://www.fullstack.cafe/blog/5-graphql-interview-questions-you-should-know"
+        },
+        {
+            "pattern": "https://adevait.com/ios/interview-questions"
+        },
+        {
+            "pattern": "https://adevait.com/java/interview-questions"
+        },
+        {
+            "pattern": "https://adevait.com/javascript-developers/interview-questions"
+        },
+        {
+            "pattern": "https://adevait.com/nodejs/interview-questions"
+        },
+        {
+            "pattern": "https://adevait.com/php/interview-questions"
+        },
+        {
+            "pattern": "https://adevait.com/python/interview-questions"
+        },
+        {
+            "pattern": "https://danielmiessler.com/study/infosec_interview_questions/"
+        },
+        {
+            "pattern": "https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j"
+        }
+    ],
+    "timeout": "5s",
+    "retryCount": 3,
+    "fallbackRetryDelay": "10s",
+    "aliveStatusCodes": [
+        200,
+        206
+    ]
+}
