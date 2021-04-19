@@ -288,7 +288,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top 10 Tricky Java interview questions and Answers](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html)
 * [Top 25 Most Frequently Asked Interview Core Java Interview Questions And Answers](http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html)
 * [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
-* [Top 50 Spring Interview Questions You Must Prepare In 2020](https://www.edureka.co/blog/interview-questions/spring-interview-questions/)
+* [Top 50 Spring Interview Questions You Must Prepare For In 2020](https://www.edureka.co/blog/interview-questions/spring-interview-questions/)
 * [Spring Interview Questions And Answers](https://www.journaldev.com/2696/spring-interview-questions-and-answers)
 * [Interview Cake Java Interview Questions](https://www.interviewcake.com/java-interview-questions)
 * [Java Interview Questions & Quizzes](https://www.techbeamers.com/java-interview-questions/)
@@ -403,7 +403,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 * [20 Ruby on Rails interview questions and answers from CareerRide.com](http://www.careerride.com/ruby-on-rails-interview-questions.aspx)
 * [9 Essential Ruby on Rails Interview Questions from Toptal](http://www.toptal.com/ruby-on-rails/interview-questions)
-* [A list of common questions with answers ask during an interview of ruby on rails job](https://github.com/rishiip/ruby-on-rails-interview-questions)
+* [High-level Ruby on Rails Interview Questions](https://github.com/rishiip/ruby-on-rails-interview-questions)
 * [Ruby And Ruby On Rails interview Q&A](http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers)
 * [Some of the most frequently asked Ruby on Rails questions and how to answer them confidently](https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/)
 * [11 Ruby on Rails Interview Practice Questions](https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions)
