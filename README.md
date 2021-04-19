@@ -533,9 +533,9 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL](http://www.tutorialspoint.com/sql/sql_interview_questions.htm)
 * [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
-### SQL Lite
+### SQLite
 
-* [Top 20 SQL LITE  Interview Questions from Career Guru](http://career.guru99.com/top-20-sql-lite-interview-questions/)
+* [Top 20 SQLITE  Interview Questions from Career Guru](http://career.guru99.com/top-20-sql-lite-interview-questions/)
 
 ## Caching technologies
 
