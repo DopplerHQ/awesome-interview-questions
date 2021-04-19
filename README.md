@@ -354,13 +354,14 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 18 Lisp Interview Questions from Career Guru](http://career.guru99.com/top-18-lisp-interview-questions/)
 
 ### NodeJS
-* [latest Node.js Interview Questions](https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md)
+
 * [25 Essential Node.js Interview Questions from Adeva](https://adevait.com/nodejs/interview-questions) 
 * [8 Essential Nodejs Interview Questions from Toptal](http://www.toptal.com/nodejs/interview-questions)
 * [Node.JS Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Node.JS](http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm)
 * [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions/)
 * [Top 25 Nodejs Interview Questions & Answers from Career Guru](http://career.guru99.com/top-25-interview-questions-on-node-js/)
 * [Top 30 Node.Js Interview Questions With Answers](https://www.techbeamers.com/top-30-node-js-interview-questions-answers/)
+* [Node.js Interview Questions in Chinese](https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md)
 
 ### Objective-C
 
