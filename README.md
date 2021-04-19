@@ -19,7 +19,7 @@
 
 [What makes for an awesome list?](awesome.md)
 
-Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
+Please read the [contribution guidelines](contributing.md) or [creating a list guide](create-list.md) if you want to contribute.
 
 ### Table of Contents
 
@@ -400,7 +400,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [20 Ruby on Rails interview questions and answers from CareerRide.com](http://www.careerride.com/ruby-on-rails-interview-questions.aspx)
 * [9 Essential Ruby on Rails Interview Questions from Toptal](http://www.toptal.com/ruby-on-rails/interview-questions)
-* [A list of common questions with answers ask during interview of ruby on rails job](https://github.com/rishiip/ruby-on-rails-interview-questions)
+* [A list of common questions with answers ask during an interview of ruby on rails job](https://github.com/rishiip/ruby-on-rails-interview-questions)
 * [Ruby And Ruby On Rails interview Q&A](http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers)
 * [Some of the most frequently asked Ruby on Rails questions and how to answer them confidently](https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/)
 * [11 Ruby on Rails Interview Practice Questions](https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions)
@@ -410,9 +410,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### ReactJS
 
 * [Reddit users share their expectations from ReactJS interview](https://www.reddit.com/r/reactjs/comments/3m5equ/react_what_interview_questions_to_expect/)
-* [This is a first in the series of interview questions related with ReactJS](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-1)
-* [This quiz intends to test your understanding around ReactJS fundamentals (Set 3)](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
-* [This quiz intends to test your understanding around ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
+* [This is a first in the series of interview questions related to ReactJS](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-1)
+* [This quiz intends to test your understanding of ReactJS fundamentals (Set 3)](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
+* [This quiz intends to test your understanding of ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [Toptal's 13 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
@@ -591,7 +591,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Coding exercises
 
-* [Common interview questions and puzzles solved in a number of languages](https://github.com/mre/the-coding-interview)
+* [Common interview questions and puzzles solved in several languages](https://github.com/mre/the-coding-interview)
 * [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges)
 * [Interview questions solved in python](https://github.com/roseperrone/interview-questions)
 * [7 Swift Coding Challenges to Practice Your Skills](https://www.makeuseof.com/tag/swift-coding-challenges/)
@@ -607,7 +607,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
-* [Design Pattens implemented in DotNet](https://www.dofactory.com/net/design-patterns)
+* [Design Patterns implemented in DotNet](https://www.dofactory.com/net/design-patterns)
 
 ## Data structures
 
