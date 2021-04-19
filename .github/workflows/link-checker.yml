@@ -1,5 +1,5 @@
 name: Markdown link checker
-on: [push,pull_request,workflow_dispatch]
+on: [workflow_dispatch]
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
