@@ -395,7 +395,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
 * [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 * [100 Python Interview Questions - Quick Refresher](https://www.techbeamers.com/python-interview-questions-programmers/)
-* [Top 100 Python Interview Questions from Edureka (2020)](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+* [Top 100 Python Interview Questions from Edureka (2021)](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
 
 ### Ruby on Rails
 
@@ -634,7 +634,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
-* [Top 45 Data Science Interview Questions You Must Prepare In 2019](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+* [Top 45 Data Science Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 * [Top 30 data science interview questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
 * [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
