@@ -63,6 +63,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
+  - [VueJs](#vuejs)
   - [Wordpress](#wordpress)
   - [TypeScript](#typescript)
 
@@ -467,6 +468,9 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Your top 10 Swift questions answered](http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html)
 * [Swift interview questions and answers on Swift 5 by Raywenderlich](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 * [Dynamic keyword in Swift](https://cocoacasts.com/what-does-the-dynamic-keyword-mean-in-swift-3)
+
+### VueJs
+* [List of 300 VueJS Interview Questions](https://github.com/sudheerj/vuejs-interview-questions)
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)
