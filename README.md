@@ -62,6 +62,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Spark](#spark)
   - [Swift](#swift)
   - [Wordpress](#wordpress)
   - [TypeScript](#typescript)
@@ -457,6 +458,10 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ### Shell
 
 * [Top 50 Shell Scripting Interview Questions from Career Guru](http://career.guru99.com/shell-scripting-interview-questions/)
+
+### Spark
+
+* [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
 
 ### Swift
 
