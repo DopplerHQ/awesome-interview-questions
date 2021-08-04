@@ -63,7 +63,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
-  - [VueJs](#vuejs)
+  - [Vue.js](#vuejs)
   - [Wordpress](#wordpress)
   - [TypeScript](#typescript)
 
