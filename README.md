@@ -469,7 +469,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Swift interview questions and answers on Swift 5 by Raywenderlich](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 * [Dynamic keyword in Swift](https://cocoacasts.com/what-does-the-dynamic-keyword-mean-in-swift-3)
 
-### VueJs
+### Vue.js
 * [List of 300 VueJS Interview Questions](https://github.com/sudheerj/vuejs-interview-questions)
 
 ### WordPress
