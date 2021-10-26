@@ -37,6 +37,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [Cucumber](#cucumber)
   - [Django](#django)
   - [Docker](#docker)
+  - [Elastic](#elastic)
   - [EmberJS](#emberjs)
   - [Erlang](#erlang)
   - [Golang](#golang)
@@ -106,7 +107,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [A great list of Android interview questions covering all the aspects of this career](http://www.tutorialspoint.com/android/android_interview_questions.htm)
 * [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions)
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
-* [Android Interview Questions & How to Interview Candidates](https://pangara.com/blog/android-interview-questions)
 * [RocketSkill App Android Interview Questions](https://github.com/mindash/android-structured-interview)
 * [Android cheat sheet: Coding program, Data structure, Android and Java interview questions with answers and categorized by topics](https://github.com/anitaa1990/Android-Cheat-sheet)
 * [Android Interview Questions And Answers From Beginner To Advanced](https://www.andreasschrade.com/2017/02/23/android-interview-questions/)
@@ -142,12 +142,10 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [1000+ Multiple Choice Questions & Answers in C++ with explanations](http://www.sanfoundry.com/cplusplus-interview-questions-answers/)
 * [200 C++ interview questions and answers](http://www.careerride.com/C++-Interview-questions-Answer.aspx)
 * [24 Essential C++ Interview Questions from Toptal](http://www.toptal.com/c-plus-plus/interview-questions)
-* [C++ Interview Questions and Answers for Freshers and Experienced developers](http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers)
 * [C++ Interview Questions from GeekInterview](http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus)
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
-* [25 Fundamental C++ Interview Questions](https://pangara.com/blog/blogcplusplus-interview-questions/)
 
 ### C
 
@@ -163,7 +161,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 * [15 Essential C# Interview Question from Toptal](http://www.toptal.com/c-sharp/interview-questions)
 * [C# interview questions from dotnetfunda.com](http://www.dotnetfunda.com/interviews/cat/6/csharp)
-* [Top 100 C# Interview Questions and Answers](http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers)
 * [Top 50 C# Interview Questions & Answers](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/)
 * [50 C# Coding Interview Questions and Answers](https://www.techbeamers.com/csharp-coding-interview-questions-developers/)
 * [20 C# OOPS Interview Questions and Answers](https://www.techbeamers.com/csharp-oops-interview-questions-answers/)
@@ -214,6 +211,10 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [30 Docker Interview Questions and Answers in 2019](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
 * [Docker Interview Questions & Answers](https://www.interviewbit.com/docker-interview-questions/)
 * [Top 50 Docker Interview Questions & Answers](https://www.wissenhive.com/blogs/top-50-docker-interview-questions-and-answers)
+
+### Elastic
+
+* [Top Elastic Stack Interview Questions](https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions)
 
 ### EmberJS
 
@@ -417,9 +418,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ### ReactJS
 
 * [Reddit users share their expectations from ReactJS interview](https://www.reddit.com/r/reactjs/comments/3m5equ/react_what_interview_questions_to_expect/)
-* [This is a first in the series of interview questions related to ReactJS](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-1)
-* [This quiz intends to test your understanding of ReactJS fundamentals (Set 3)](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
-* [This quiz intends to test your understanding of ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [Toptal's 21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
@@ -644,7 +642,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [How to prepare for an information security job interview?](http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview)
 * [Information Security Interview Questions from Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/)
 * [Top 50 Information Security Interview Questions for freshers and experts](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/)
-* [Security Interview Questions (and Answers) from Matthew Adeline](https://mkadeline.github.io/security/Security-Interview-Questions-Answers)
 
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
