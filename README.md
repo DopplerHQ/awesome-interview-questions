@@ -364,6 +364,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top 30 Node.Js Interview Questions With Answers](https://www.techbeamers.com/top-30-node-js-interview-questions-answers/)
 * [Top Nodejs Interview Questions & Answers](https://www.interviewbit.com/node-js-interview-questions/)
 * [Node.js Interview Questions in Chinese](https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md)
+* [Node.js Interview Questions by learning-zone](https://github.com/learning-zone/nodejs-interview-questions)
 
 ### Objective-C
 
