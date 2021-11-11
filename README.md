@@ -424,6 +424,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [Toptal's 21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 * [19 Essential ReactJs Interview Questions](https://www.educba.com/reactjs-interview-questions/)
+* [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 
 ### Ruby
 
