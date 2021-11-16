@@ -130,6 +130,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
 * [List of 300 Angular Interview Questions and Answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular Interview Questions (2020)](https://www.interviewbit.com/angular-interview-questions/)
+* [Top Angular Interview Questions and Answers in 2021](https://hackr.io/blog/angular-interview-questions)
 
 ### BackboneJS
 
