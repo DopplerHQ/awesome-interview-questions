@@ -190,7 +190,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [Top 50 CSS(Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
-* [CSS Questions and Answers](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/css-questions.md)
+* [Front End Interview Handbook - CSS Questions and Answers](https://frontendinterviewhandbook.com/css-questions/)
 
 ### Cucumber
 
@@ -245,7 +245,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [HTML interview questions and answers for freshers and experienced candidates Also find HTML online practice tests to fight written tests and certification exams on HTML](http://www.careerride.com/Interview-Questions-HTML.aspx)
 * [Top 50 HTML Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-50-html-interview-questions/)
 * [Common HTML interview questions for freshers](http://www.javatpoint.com/html-interview-questions)
-* [HTML Questions and Answers](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/html-questions.md)
+* [Front End Interview Handbook - HTML Questions and Answers](https://frontendinterviewhandbook.com/html-questions/)
 * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
 * [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
 
@@ -322,7 +322,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer))
 * [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
-* [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Front End Interview Handbook - JavaScript Questions and Answers](https://frontendinterviewhandbook.com/javascript-questions/)
 * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/)
 * [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
 * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
@@ -595,7 +595,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [EKAlgorithms contains some well known CS algorithms & data structures](https://github.com/EvgenyKarkan/EKAlgorithms)
 * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
-* [Top Algorithms Questions by Topics](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms/README.md)
+* [Tech Interview Handbook Best Practice Questions](https://techinterviewhandbook.org/best-practice-questions/)
 * [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
 ## Blockchain
@@ -618,7 +618,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 * [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
-* [Answers to Front End Developer Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/README.md)
+* [Front End Interview Handbook](https://frontendinterviewhandbook.com/)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
 
 ## Design Patterns
