@@ -231,7 +231,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 * [Solutions for Elements of Programming Interviews problems written in Golang](https://github.com/mrekucci/epi)
 * [Solutions for some basic coding interview tasks written in Go](https://github.com/efischer19/golang_ctci)
-* [Top 20 GO Programming Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-20-go-programming-interview-questions/)
 
 ### GraphQl
 
