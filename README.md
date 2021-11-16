@@ -333,6 +333,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 * [Top 50 jquery interview questions](https://career.guru99.com/top-50-jquery-interview-questions/)
 * [17 Essential jQuery Interview Questions From Toptal](https://www.toptal.com/jquery/interview-questions)
+* [Top JQuery Interview Questions and Answers](https://www.techgeekbuzz.com/top-jquery-interview-questions/)
 
 
 ### Front-end build tools
