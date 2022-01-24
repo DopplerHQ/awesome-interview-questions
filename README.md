@@ -54,6 +54,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [Lisp](#lisp)
   - [NodeJS](#nodejs)
   - [Objective-C](#objective-c)
+  - [PegaPRPC](#pega)
   - [PHP](#php)
   - [Python](#python)
   - [ReactJS](#reactjs)
@@ -374,6 +375,9 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 * [Interview Qs for Objective-C and Swift](http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/)
 * [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
+
+### Pega PRPC
+* [Top Interview Question on Pega PRPC](https://karthiktrainings.com/pega-interview-questions/)
 
 ### PHP
 
