@@ -591,6 +591,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [DevOps Interview Questions &amp; Answers](https://www.interviewbit.com/devops-interview-questions/)
 
 ## Algorithms
+* [A curated list of algorithmic challenges websites](https://github.com/mauriciovieira/awesome-challenges/)
 * [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
 * [A great list of Java interview questions](http://java2novice.com/java-interview-programs/)
 * [Algorithms playground for common interview questions written in Ruby](https://github.com/sagivo/algorithms)
