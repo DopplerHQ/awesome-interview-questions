@@ -175,6 +175,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [NET Interview Questions and Answers for Beginners which consists of the most frequently asked questions in NET This list of 100+ questions and answers gauge your familiarity with the NET platform](http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners)
 * [Questions gathered by community of the StackOverflow](http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer)
 * [What Great NET Developers Ought To Know (More NET Interview Questions)](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx)
+* [ASP.NET MVC Interview Questions](https://www.interviewbit.com/asp-net-mvc-interview-questions/)
 
 ### Clojure
 
@@ -536,6 +537,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Frequently Asked Basic PostgreSQL Interview Questions and Answers](http://nazafbtemplate.blogspot.com.by/2014/06/frequently-asked-basic-postgresql.html)
 * [PostgreSQL Interview Preparation Guide](http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_)
 * [PostgreSQL Interview Q&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411)
+* [PostgreSQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/#postgresql)
 
 ### SQL
 
@@ -599,6 +601,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 * [Tech Interview Handbook Best Practice Questions](https://techinterviewhandbook.org/best-practice-questions/)
 * [Daily Coding Interview Practice](https://www.techseries.dev/daily)
+*  [Algorithm Interview Questions](https://www.interviewbit.com/algorithm-interview-questions/)
 
 ## Blockchain
 * [Top 55 Blockchain Interview Questions You Must Prepare In 2018](https://www.edureka.co/blog/interview-questions/blockchain-interview-questions/)
@@ -628,6 +631,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 * [Design Patterns implemented in DotNet](https://www.dofactory.com/net/design-patterns)
+* [Design Patterns Interview Questions](https://www.interviewbit.com/design-patterns-interview-questions/)
 
 ## Data structures
 
