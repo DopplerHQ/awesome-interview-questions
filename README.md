@@ -123,6 +123,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 * [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
 * [100 AngularJS Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-angularjs-interview-questions-answers/)
+* [200+ AngularJS MCQ Interview Questions - Quizack](https://quizack.com/skill-assessment/angular-js)
 
 ### Angular
 
