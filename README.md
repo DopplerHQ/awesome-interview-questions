@@ -78,7 +78,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [Oracle](#oracle)
   - [Postgres](#postgres)
   - [SQL](#sql)
-  - [SQL Lite](#sql-lite)
+  - [SQL Lite](#sqlite)
 - [Caching technologies](#caching-technologies)
   - [Memcached](#memcached)
   - [Redis](#redis)
