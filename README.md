@@ -147,6 +147,8 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
+* [50 Top C++ Interview Questions and Answers](https://www.techgeekbuzz.com/blog/top-cpp-interview-questions/)
+
 
 ### C
 
@@ -202,6 +204,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Some abstract interview questions for Python/Django developers](http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/)
 * [Some Django basic interview questions to establish the basic level of the candidates](http://www.ilian.io/django-interview-questions/)
 * [Top 16 Django Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-16-django-interview-questions/)
+* [50 Top Django Interview Questions and Answers](https://www.techgeekbuzz.com/blog/django-interview-questions/)
 
 ### Docker
 
@@ -249,6 +252,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Front End Interview Handbook - HTML Questions and Answers](https://frontendinterviewhandbook.com/html-questions/)
 * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
 * [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
+* [85+ Top HTML Interview Questions and Answers in 2022](https://www.techgeekbuzz.com/blog/html-interview-questions/)
 
 ### Ionic
 
@@ -329,6 +333,8 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
 * [JavaScript Modern Interview Code Challenges 2021](https://github.com/sadanandpai/javascript-code-challenges)
 * [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
+* [50+ Top JavaScript Interview Questions and Answers](https://www.techgeekbuzz.com/blog/javascript-interview-questions/)
+
 
 ### jQuery
 
@@ -407,6 +413,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 * [100 Python Interview Questions - Quick Refresher](https://www.techbeamers.com/python-interview-questions-programmers/)
 * [Top 100 Python Interview Questions from Edureka (2021)](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+* [150 Top Python Interview Questions (2022)](https://www.techgeekbuzz.com/blog/python-interview-questions/)
 
 ### Ruby on Rails
 
@@ -657,6 +664,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 * [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 * [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/) 
+* [Top Data Science Interview Questions and Answers](https://www.techgeekbuzz.com/blog/data-science-interview-questions/)
 
 ### License
 
