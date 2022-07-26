@@ -628,7 +628,8 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 * [Design Patterns implemented in DotNet](https://www.dofactory.com/net/design-patterns)
-* [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+* [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) 
+
 
 ## Data structures
 
