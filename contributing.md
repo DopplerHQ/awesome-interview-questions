@@ -13,7 +13,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style). 
+- Use [title-casing](https://capitalizemytitle.com/) (AP style). 
 - Use the following format: `[List Name](link)`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
@@ -39,4 +39,4 @@ You'll need a [GitHub account](https://github.com/join)!
 3. Now click on the edit icon
 4. Edit contents of the file using the in-browser editor to add your changes
 5. Explain why you're proposing your changes, then click "Propose file change".
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)
+6. Submit the [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
