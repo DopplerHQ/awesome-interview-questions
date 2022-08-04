@@ -460,7 +460,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 ### SharePoint
 
-* [Sharepoint Interview Question For Developer](http://www.rajeshg.me/2013/05/sharepoint-developer-2010-interview.html)
 * [Top SharePoint Interview Questions and Answers](https://intellipaat.com/blog/interview-question/sharepoint-interview-questions/)
 
 ### Shell
