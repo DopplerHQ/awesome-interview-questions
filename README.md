@@ -147,6 +147,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
+* [C++ Interview Questions](https://www.interviewbit.com/cpp-interview-questions/)
 
 ### C
 
@@ -279,6 +280,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Babylon iOS Interview Questions](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
 * [RocketSkill App iOS Interview Questions](https://github.com/mindash/iOS-structured-interview)
 * [iOS Static vs Dynamic Dispatch](https://medium.com/flawless-app-stories/static-vs-dynamic-dispatch-in-swift-a-decisive-choice-cece1e872d)
+* [iOS Interview Questions](https://www.interviewbit.com/ios-interview-questions/)
 
 ### Java
 
