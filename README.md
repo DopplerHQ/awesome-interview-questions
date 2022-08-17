@@ -147,6 +147,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
+* [C++ Interview Questions for freshers](https://www.interviewbit.com/cpp-interview-questions/)
 
 ### C
 
@@ -175,6 +176,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [NET Interview Questions and Answers for Beginners which consists of the most frequently asked questions in NET This list of 100+ questions and answers gauge your familiarity with the NET platform](http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners)
 * [Questions gathered by community of the StackOverflow](http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer)
 * [What Great NET Developers Ought To Know (More NET Interview Questions)](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx)
+* [Top .Net Questions 2022](https://www.interviewbit.com/dot-net-interview-questions/)
 
 ### Clojure
 
@@ -196,12 +198,15 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 * [Cucumber Web Application BDD Sample Interview Questions](https://ratedr05.wordpress.com/2017/09/22/cucumber-interview-questions/)
 * [Guide to building a simple Cucumber + Watir page object pattern framework](http://watir.com/simple-cucumber-watir-page-object-pattern-framework/)
+* [Top Cucumber Interview Questions 2022](https://www.interviewbit.com/cucumber-interview-questions/)
+
 
 ### Django
 
 * [Some abstract interview questions for Python/Django developers](http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/)
 * [Some Django basic interview questions to establish the basic level of the candidates](http://www.ilian.io/django-interview-questions/)
 * [Top 16 Django Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-16-django-interview-questions/)
+* [30+ Django Interview Questions 2022](https://www.interviewbit.com/django-interview-questions/)
 
 ### Docker
 
@@ -280,6 +285,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [RocketSkill App iOS Interview Questions](https://github.com/mindash/iOS-structured-interview)
 * [iOS Static vs Dynamic Dispatch](https://medium.com/flawless-app-stories/static-vs-dynamic-dispatch-in-swift-a-decisive-choice-cece1e872d)
 
+
 ### Java
 
 * [List of Java programs for interview Categoriwise](https://onurdesk.com/category/interview/interview-program-java/)
@@ -335,6 +341,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top 50 jquery interview questions](https://career.guru99.com/top-50-jquery-interview-questions/)
 * [17 Essential jQuery Interview Questions From Toptal](https://www.toptal.com/jquery/interview-questions)
 * [Top JQuery Interview Questions and Answers](https://www.techgeekbuzz.com/top-jquery-interview-questions/)
+* [Top 40+ jQuery Questions and Answers 2022](https://www.interviewbit.com/jquery-interview-questions/)
 
 
 ### Front-end build tools
@@ -418,6 +425,8 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [11 Ruby on Rails Interview Practice Questions](https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions)
 * [Top 53 Ruby on Rails Interview Questions & Answers](https://career.guru99.com/top-34-ruby-on-rail-interview-questions/)
 * [10 Ruby on Rails interview questions and answers](https://www.upwork.com/i/interview-questions/ruby-on-rails/)
+* [Top Ruby on Rail Interview Questions](https://www.interviewbit.com/ruby-on-rails-interview-questions/)
+
 
 ### ReactJS
 
@@ -512,6 +521,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [MongoDB Interview Questions from JavaTPointcom](http://www.javatpoint.com/mongodb-interview-questions)
 * [MongoDB Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of MongoDB](http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm)
 * [Top 20 MongoDB interview questions from Career Guru](http://career.guru99.com/top-20-mongodb-interview-questions/)
+* [Commonly asked MongoDB Interview Questions](https://www.interviewbit.com/mongodb-interview-questions/)
 
 ### MySQL
 
@@ -521,6 +531,8 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [28 MySQL interview questions from JavaTPoint.com](http://www.javatpoint.com/mysql-interview-questions)
 * [40 Basic MySQL Interview Questions with Answers](http://www.testingbrain.com/interview/mysql-interview-questions.html)
 * [Top 50 MySQL Interview Questions & Answers from Career Guru](http://career.guru99.com/top-50-mysql-interview-questions-answers/)
+* [25+ commonly asked MySql Interview Questions](https://www.interviewbit.com/mysql-interview-questions/)
+
 
 ### Neo4j
 
@@ -529,6 +541,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ### Oracle
 
 * [General Oracle Interview Questions & Answers](http://www.coolinterview.com/type.asp?iType=57)
+* [Oracle Interview Question](https://www.interviewbit.com/oracle-interview-questions/)
 
 ### Postgres
 
@@ -576,6 +589,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top 50 Linux Interview Questions from Career Guru](http://career.guru99.com/top-50-linux-interview-questions/)
 * [278 Test Questions and Answers for \*nix System Administrators](https://github.com/trimstray/test-your-sysadmin-skills)
 * [Linux Interview Questions - Quick Refresher](https://www.techbeamers.com/essential-linux-questions-answers/)
+* [Top Linux questions and answers](https://www.interviewbit.com/linux-interview-questions/)
 
 ### Windows
 
@@ -588,7 +602,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
 * [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 * [Top 60+ DevOps Interview Questions &amp; Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
-* [DevOps Interview Questions &amp; Answers](https://www.interviewbit.com/devops-interview-questions/)
+* [DevOps Interview Questions & Answers](https://www.interviewbit.com/devops-interview-questions/)
 
 ## Algorithms
 * [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
@@ -628,6 +642,8 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 * [Design Patterns implemented in DotNet](https://www.dofactory.com/net/design-patterns)
+* [Top Design Pattern Interview Questions](https://www.interviewbit.com/design-patterns-interview-questions/)
+
 
 ## Data structures
 
