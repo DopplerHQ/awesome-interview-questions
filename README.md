@@ -622,6 +622,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 * [Front End Interview Handbook](https://frontendinterviewhandbook.com/)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
+* [Important Technical Interview Questions](https://skillcrush.com/blog/technical-interviews/0
 
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
