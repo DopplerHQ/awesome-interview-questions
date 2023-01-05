@@ -407,6 +407,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 * [100 Python Interview Questions - Quick Refresher](https://www.techbeamers.com/python-interview-questions-programmers/)
 * [Top 100 Python Interview Questions from Edureka (2021)](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+* [Interview Questions with answers and explanations](https://github.com/ahmadalwareh/Python_Interview_Questions/tree/main/questions/General)
 
 ### Ruby on Rails
 
