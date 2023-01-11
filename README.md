@@ -249,6 +249,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Front End Interview Handbook - HTML Questions and Answers](https://frontendinterviewhandbook.com/html-questions/)
 * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
 * [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
+* [100+ HTML Interview Questions (2023)](https://www.adaface.com/blog/html-css-interview-questions/)
 
 ### Ionic
 
