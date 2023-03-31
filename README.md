@@ -658,6 +658,9 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 * [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/) 
 
+## Mock Interview
+* [Meetapro - mock interviews with experienced FAANG interviewers](https://meetapro.com/?utm_source=aiqgithub
+
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
