@@ -252,7 +252,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 ### Ionic
 
-* [23 Beginner Level Ionic Framework Questions](http://www.codeandyou.com/p/ionic-interview-questions.html)
 * [12 Essential Ionic Interview Questions](https://www.toptal.com/ionic/interview-questions)
 * [45 Ionic Interview Questions](https://www.javatpoint.com/ionic-interview-questions)
 * [Most Asked Ionic Interview Questions](https://www.maheshbhusanoor.com/article/ionic-interview-questions-answers.html)
@@ -264,7 +263,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [25 Essential iOS Interview Questions from Adeva](https://adevait.com/ios/interview-questions)
 * [A small guide to help those looking to hire a developer or designer for iOS work While tailored for iOS, many questions could be used for Android developers or designers as well A great self-test if you're looking to keep current or practice for your own interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
 * [All you need to know about iOS technical interview including some tips for preparing, questions and some coding exercises](http://www.raywenderlich.com/53962/ios-interview-questions)
-* [Interview Questions for iOS and Mac Developers from the CEO of Black Pixel](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
 * [iOS Interview Questions and Answers including such topics as Development Basics, App states and multitasking, App states, Core app objects](http://www.geekinterview.com/Interview-Questions/iOS)
 * [iOS Interview Questions For Senior Developers](https://m.smartcloud.io/ios-interview-questions-for-senior-developers-in-2017-a94cc81c8205)
 * [50 iOS Interview Questions And Answers 1](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a)
@@ -384,7 +382,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [PHP interview questions and answers for freshers](http://phpinterviewquestions.co.in/)
 * [Top 100 PHP Interview Questions & Answers from CareerGuru](http://career.guru99.com/top-100-php-interview-questions-answers/)
 * [25 PHP Interview Questions](https://www.codementor.io/php/tutorial/php-interview-questions-sample-answers)
-* [26 Essential PHP Interview Questions for 2018](https://pangara.com/blog/php-interview-questions)
 * [Cracking PHP Interviews Questions ebook 300+ Q&A](https://bootsity.com/books)
 * [PHP Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-php-interview-questions-answers/)
 * [30+ PHP Interview Questions](https://www.interviewbit.com/php-interview-questions/)
@@ -485,7 +482,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [List of 300 VueJS Interview Questions](https://github.com/sudheerj/vuejs-interview-questions)
 
 ### WordPress
-* [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)
 * [10 Essential WordPress Interview Questions](https://www.toptal.com/wordpress/interview-questions)
 
 ### TypeScript
@@ -568,7 +564,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 ### Linux
 
-* [10 Job Interview Questions for Linux System Administrators from Linux.com](https://www.linuxfoundation.org/blog/2015/07/10-job-interview-questions-for-linux-system-administrators/)
 * [10 Useful Random Linux Interview Questions and Answers](http://www.tecmint.com/useful-random-linux-interview-questions-and-answers/)
 * [11 Basic Linux Interview Questions and Answers](http://www.tecmint.com/basic-linux-interview-questions-and-answers/)
 * [11 Essential Linux Interview Questions from Toptal](http://www.toptal.com/linux/interview-questions)
@@ -627,7 +622,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
-* [Design Patterns implemented in DotNet](https://www.dofactory.com/net/design-patterns)
 
 ## Data structures
 
@@ -652,7 +646,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 * [Top 45 Data Science Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
-* [Top 30 data science interview questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
 * [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 * [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
