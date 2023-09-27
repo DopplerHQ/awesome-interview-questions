@@ -40,6 +40,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [Elastic](#elastic)
   - [EmberJS](#emberjs)
   - [Erlang](#erlang)
+  - [Flutter](#flutter)
   - [Golang](#golang)
   - [GraphQl](#graphql)
   - [HTML](#html)
@@ -226,6 +227,11 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ### Erlang
 
 * [Top 22 Erlang Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-22-erlang-interview-questions/)
+
+### Flutter
+
+* [DART TUTORIAL](https://dart-tutorial.com/)
+
 
 ### Golang
 
