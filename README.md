@@ -231,6 +231,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ### Flutter
 
 * [DART TUTORIAL](https://dart-tutorial.com/)
+* [Top 100 Flutter Interview Questions](https://shirsh94.medium.com/top-100-flutter-interview-questions-efc4a96eb22c)
 
 
 ### Golang
